@@ -1,0 +1,14 @@
+#poke-card {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.poke-img {
+    width: auto;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.poke-name {
+    text-transform: capitalize;
+}

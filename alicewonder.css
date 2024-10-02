@@ -1,0 +1,137 @@
+body {
+	margin: 2em; padding: 0;
+	font-family: "Roboto Slab", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 1.5em;
+	line-height: 1.2;
+	animation: colorTransition 2s ease-in-out 1;
+}
+
+body.transitioned {
+	animation: colorTransition 2s ease-in-out 1;
+}
+
+a:link {color: #666; text-decoration: none; border-bottom: 0px solid #fff;}
+a:visited {color: #666; text-decoration: none; border-bottom: 0px solid #fff;}
+a:hover  {color: #999; text-decoration: none; border-bottom: 0px solid #CC6633; transition: 0.4s; box-shadow: 0 0 5px 5px #e0e0e0; background-color: #e0e0e0;}
+a:active {color: #666; text-decoration: none; border-bottom: 0px solid #fff;}
+
+a.btn:link {text-decoration: none; border: 0px;}
+a.btn:visited {text-decoration: none; border: 0px;}
+a.btn:hover {text-decoration: none; border: 0px;}
+a.btn:active {text-decoration: none; border: 0px;}
+
+h1 {
+	font-size: 2.0em;
+	margin: 0 0 1em 0; 
+	padding: 0 0 10px 0; 
+	text-align: right; 
+	border-bottom: 1px solid #ccc;
+	}
+h2 {
+	font-size: 1.2em;
+	margin: 0 0 1em 0; 
+	padding: 0 0 10px 0; 
+	text-align: right; 
+	border-bottom: 1px solid #ccc;
+	}
+h3 {
+	font-size: 1.0em;
+	margin: 0 0 1em 0; 
+	padding: 0 0 10px 0; 
+	text-align: right; 
+	font-color: #999;
+	}
+
+.container-fluid {
+	width: 60%;
+	margin-right:auto; margin-left:auto; margin-top: 5px; margin-bottom: 10px;
+	padding: 0; 
+	text-align: left;
+	}
+
+.poem {
+	font-size: 0.8em;
+	line-height: 1.3em;
+	margin: 1em; padding: 2em 2em 2em 4em;
+	font-style: italic;
+	animation: sizeShrink 2s ease forwards 1, floatBackAndForth 10s ease-in-out infinite; 
+	}
+
+p {margin: 1.5em 0; padding: 0; animation: sizeTransition 2s ease-in-out;}
+
+.question {
+	margin: 0; padding: 0 0 0 3em;
+    color: #000;
+	display: inline-block; 
+    animation: opacityTransition 8s ease-in-out 1, floatBackAndForth 4s ease-in-out infinite; 
+}
+.question p {margin: 0.5em 0 -0.5em 0; padding: 0; animation: sizeTransition 2s ease-in-out;}
+
+#Choices {
+	margin: 0px; padding: 150px 0 20px 100px;
+	min-height: 200px; overflow: visible;
+	text-align: center;
+	background-image:url("cheshirecat-johntenniel.png");
+	background-repeat: no-repeat;
+	border-bottom: 1px solid #666;
+	animation: opacityTransition 4s ease-in-out;
+	}
+
+#Choices button {margin: 10px; padding: 7px 20px 5px 20px; 
+	font-size: 0.7em;
+	text-align: center;
+	border-radius: 90px;
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.25);
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.25);
+	animation: opacityTransition 5s ease-in-out;
+	}
+
+#Choices button:hover {
+	transition: 0.9s;
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.50);
+	box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.50);
+	background-color: #000; 
+	color: #fc0;
+}
+
+#Footer {
+	margin: 15px 0 0 0; padding: 0; 
+	font-size: 0.7em;
+	animation: opacityTransition 12s ease-in-out;
+}
+
+@keyframes opacityTransition {
+	from {opacity: 0;}
+	to {opacity: 1;}
+}
+
+@keyframes colorTransition {
+	from {color: #ffffff;}
+	to {color: #000000;}
+}
+
+@keyframes sizeTransition {
+	from {font-size: 0.1em; padding: 0em;}
+	to {padding: 0;}
+}
+
+@keyframes sizeShrink {
+	from {font-size: 20em; padding: 0em;}
+	to {padding: 0;}
+}
+
+@keyframes floatBackAndForth {
+    0% { transform: translateX(0);}
+    50% { transform: translateX(-20px);}
+    100% { transform: translateX(0);}
+}
+
+@keyframes floatUpAndDown {
+    0% { transform: translateY(0);}
+    50% { transform: translateY(5px);}
+    100% { transform: translateY(0);}
+}
+
