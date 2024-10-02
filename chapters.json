@@ -79,7 +79,7 @@
                     }
                 ]
            },
-           	"chap5_3b": {
+           	"chap5_3c": {
             	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Repeat, '<em>Ticking away the moments that make up a dull day</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"Ticking away the moments that make up a dull day<br />   You fritter and waste the hours in an off-hand way<br />   Kicking around on a piece of ground in your home town<br />   Waiting for someone or something to show you the way<br />\"Tired of lying in the sunshine, staying home to watch the rain<br />   And you are young and life is long, and there is time to kill today<br />   And then one day you find ten years have got behind you<br />   No one told you when to run, you missed the starting gun<br />\"And you run and you run to catch up with the sun but it's sinking<br />   Racing around to come up behind you again<br />   Sun is the same, in a relative way, but you're older<br />   Shorter of breath and one day closer to death.\"</p>",
             	"choices": [
                     {
@@ -88,7 +88,7 @@
                     }
                 ]
            },
-           	"chap5_3c": {
+           	"chap5_3b": {
             	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Repeat, '<em>And the men who hold high places</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"And the men who hold high places<br />    Must be the ones who start<br />To mold a new reality<br />    Closer to the heart<br />    Closer to the heart<br />\"The blacksmith and the artist<br />    Reflect it in their art<br />    They forge their creativity<br />Closer to the heart<br />Yes closer to the heart<br />\"Philosophers and ploughmen<br />    Each must know his part<br />    To sow a new mentality<br />    Closer to the heart<br />    Yes closer to the heart, yeah.\"</p>",
             	"choices": [
                     {
