@@ -19,8 +19,9 @@ function choices(choices) {
 
 export function updateChapter(place) {
     $.getJSON("./chapters.json", (data) => {
-        var choiceList = data.seven.mainText[place].choices || null;
-        $("#MainText").html(data.seven.mainText[place].text);
-        choiceList ? choices(data.seven.mainText[place].choices) : $("#Choices").empty();
+        var choiceList = data.mainText[place].choices || null;
+        $("#Chapter").text(data.mainText[place].chapter)
+        $("#MainText").html(data.mainText[place].text);
+        choiceList ? choices(data.mainText[place].choices) : $("#Choices").empty();
     })
 };
