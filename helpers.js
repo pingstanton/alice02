@@ -39,7 +39,11 @@ function randomize(place) {
             $("#random-2").text(sel2);
             $("#random-3").text(sel3);
             break;
-        
+        case "chap11_1a":
+            var selections = ["stoopid fins", "Stoop'd Thins", "Stu- Th--", "Stup Thngs"];
+            var sel0 = selections[Math.floor(Math.random() * selections.length)];
+            $("#random").text(sel0);
+            break;
     }
 }
 
