@@ -1,189 +1,883 @@
 {
-    "seven": {
-        "name": "Alice in Wonderland",
-        "mainText": {
-           	"begin": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.</p><p>\"Who are <em>you?</em>\" said the Caterpillar.</p><p>This was not an encouraging opening for a conversation. Alice replied, rather shyly, \"I-I hardly know, sir, just at present-at least I know who I <em>was</em> when I got up this morning, but I think I must have been changed several times since then.\"</p><p>\"What do you mean by that?\" said the Caterpillar sternly. \"Explain yourself!\"</p><p>\"I can't explain <em>myself</em>, I'm afraid, sir,\" said Alice, \"because I'm not myself, you see.\"</p><p>\"I don't see,\" said the Caterpillar.</p><p>\"I'm afraid I can't put it more clearly,\" Alice replied very politely, \"for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.\"</p><p>\"It isn't,\" said the Caterpillar.</p><p>\"Well, perhaps you haven't found it so yet,\" said Alice; \"but when you have to turn into a chrysalis-you will some day, you know-and then after that into a butterfly, I should think you'll feel it a little queer, won't you?\"</p><p>\"Not a bit,\" said the Caterpillar.</p><p>\"Well, perhaps your feelings may be different,\" said Alice; \"all I know is, it would feel very queer to <em>me</em>.\"</p><p>\"You!\" said the Caterpillar contemptuously. \"Who are <em>you?</em>\"</p><p>Which brought them back again to the beginning of the conversation. Alice felt a little irritated at the Caterpillar's making such <em>very</em> short remarks, and she drew herself up and said, very gravely, \"I think, you ought to tell me who <em>you</em> are, first.\"</p><p>\"Why?\" said the Caterpillar.</p><p>Here was another puzzling question; and as Alice could not think of any good reason, and as the Caterpillar seemed to be in a <em>very</em> unpleasant state of mind, she turned away.</p><p>\"Come back!\" the Caterpillar called after her. \"I've something important to say!\"</p><p>This sounded promising, certainly: Alice turned and came back again.</p><div class=\"question\"><p>What does the Caterpillar tell Alice?</p></div>",
-            	"choices": [
-                    {
-                        "text": "Keep your temper.",
-                        "route": "chap5_2a"
-                    },
-                    {
-                        "text": "Everything changes.",
-                        "route": "chap5_2b"
-                    },
-                    {
-                        "text": "Words are lies.",
-                        "route": "chap5_2c"
-                    }
-                ]
-           },
-           	"chap5_2a": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Keep your temper,\" said the Caterpillar.</p><p>\"Is that all?\" said Alice, swallowing down her anger as well as she could.</p><p>\"No,\" said the Caterpillar.</p><p>Alice thought she might as well wait, as she had nothing else to do, and perhaps after all it might tell her something worth hearing. For some minutes it puffed away without speaking, but at last it unfolded its arms, took the hookah out of its mouth again, and said, \"So you think you're changed, do you?\"</p><p>\"I'm afraid I am, sir,\" said Alice; \"I can't remember things as I used-and I don't keep the same size for ten minutes together!\"</p><p>\"Can't remember <em>what</em> things?\" said the Caterpillar.</p><p>\"Well, I've tried to say \"How doth the little busy bee,\" but it all came different!\" Alice replied in a very melancholy voice.</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
-            	"choices": [
-                    {
-                        "text": "Age...",
-                        "route": "chap5_3a"
-                    },
-                    {
-                        "text": "Quality...",
-                        "route": "chap5_3b"
-                    },
-                    {
-                        "text": "Time...",
-                        "route": "chap5_3c"
-                    }
-                ]
-           },
-           	"chap5_2b": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Everything always changes, or rather, nothing ever changes,\" said the Caterpillar.</p><p>\"Easy for you to say!\" stammered Alice, clenching her fists at her side. \"You are caterpillar about to change into a butterfly! I am a girl, and I'm, not supposed to be changing size.\"</p><p>\"You are <em>little</em> girl, or so you suppose to be,\" said the Caterpillar, blowing a ring of blue smoke about Alice's head. \"Are you a baby? Are you an old woman? Are you the soil beneath a tree?\"</p><p>\"Of course not,\" a petulant Alice said, waving away the smoke with her hands.</p><p>\"Shows what you know,\" replied the Caterpillar as he again put the hookah to his mouth. \"Only you have your <em>now</em>, if you can keep it.\"</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
-            	"choices": [
-                    {
-                        "text": "Age...",
-                        "route": "chap5_3a"
-                    },
-                    {
-                        "text": "Quality...",
-                        "route": "chap5_3b"
-                    },
-                    {
-                        "text": "Time...",
-                        "route": "chap5_3c"
-                    }
-                ]
-           },
-           	"chap5_2c": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"All words are lies,\" said the Caterpillar.</p><p>\"Maybe here in this strange place they are,\" spat Alice, feeling her anger turn to suspicion. \"You clearly love to sit on your mushroom, smoking away. What use do you have for lies?\"</p> <p>\"Everything and nothing,\" said the Caterpillar, blowing a ring of blue smoke about Alice's head. \"Does my love have anything in common to your love? Does the mushroom really <em>MUSHROOM</em>, or do we all lie and just say that it does? Am I sitting, or simply pausing while I fall down?\"</p><p>Alice looked around, hoping to find some sense beneath the Caterpillar's mushroom, but she found nothing.</p><p>\"Leave that nothing alone,\" warned the Caterpillar, \"else the <em>Gribblegrin</em> will come and <em>blorplelate</em> your <em>spizzinget</em> for <em>frundlement</em>.\"<p>\"You just made up those words,\" said Alice.</p><p>\"All words are made up,\" replied the Caterpillar.</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
-            	"choices": [
-                    {
-                        "text": "Age...",
-                        "route": "chap5_3a"
-                    },
-                    {
-                        "text": "Quality...",
-                        "route": "chap5_3b"
-                    },
-                    {
-                        "text": "Time...",
-                        "route": "chap5_3c"
-                    }
-                ]
-           },
-           	"chap5_3a": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Repeat, \"<em>You are old, Father William</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"You are old, Father William,\" the young man said,<br>    \"And your hair has become very white;<br>And yet you incessantly stand on your head-<br>    Do you think, at your age, it is right?\"<br><br>\"In my youth,\" Father William replied to his son,<br>    \"I feared it might injure the brain;<br>But, now that I'm perfectly sure I have none,<br>    Why, I do it again and again.\"<br><br>\"You are old,\" said the youth, \"as I mentioned before,<br>    And have grown most uncommonly fat;<br>Yet you turned a back-somersault in at the door-<br>    Pray, what is the reason of that?\"<br><br>\"In my youth,\" said the sage, as he shook his grey locks,<br>    \"I kept all my limbs very supple<br>By the use of this ointment-one shilling the box-<br>    Allow me to sell you a couple?\"<br><br>\"You are old,\" said the youth, \"and your jaws are too weak<br>    For anything tougher than suet;<br>Yet you finished the goose, with the bones and the beak-<br>    Pray, how did you manage to do it?\"<br><br>\"In my youth,\" said his father, \"I took to the law,<br>    And argued each case with my wife;<br>And the muscular strength, which it gave to my jaw,<br>    Has lasted the rest of my life.\"<br><br>\"You are old,\" said the youth, \"one would hardly suppose<br>    That your eye was as steady as ever;<br>Yet you balanced an eel on the end of your nose-<br>    What made you so awfully clever?\"<br><br>\"I have answered three questions, and that is enough,\"<br>    Said his father; \"don't give yourself airs!<br>Do you think I can listen all day to such stuff?<br>    Be off, or I'll kick you down stairs!\"</p>",
-            	"choices": [
-                    {
-                        "text": "And what did the Caterpillar say to that?",
-                        "route": "chap5_4"
-                    }
-                ]
-           },
-           	"chap5_3c": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Repeat, '<em>Ticking away the moments that make up a dull day</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"Ticking away the moments that make up a dull day<br />   You fritter and waste the hours in an off-hand way<br />   Kicking around on a piece of ground in your home town<br />   Waiting for someone or something to show you the way<br />\"Tired of lying in the sunshine, staying home to watch the rain<br />   And you are young and life is long, and there is time to kill today<br />   And then one day you find ten years have got behind you<br />   No one told you when to run, you missed the starting gun<br />\"And you run and you run to catch up with the sun but it's sinking<br />   Racing around to come up behind you again<br />   Sun is the same, in a relative way, but you're older<br />   Shorter of breath and one day closer to death.\"</p>",
-            	"choices": [
-                    {
-                        "text": "Waitaminute, isn't that a song by Pink Floyd?",
-                        "route": "chap5_4"
-                    }
-                ]
-           },
-           	"chap5_3b": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"Repeat, '<em>And the men who hold high places</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"And the men who hold high places<br />    Must be the ones who start<br />To mold a new reality<br />    Closer to the heart<br />    Closer to the heart<br />\"The blacksmith and the artist<br />    Reflect it in their art<br />    They forge their creativity<br />Closer to the heart<br />Yes closer to the heart<br />\"Philosophers and ploughmen<br />    Each must know his part<br />    To sow a new mentality<br />    Closer to the heart<br />    Yes closer to the heart, yeah.\"</p>",
-            	"choices": [
-                    {
-                        "text": "Waitaminute, isn't that a song by Rush?",
-                        "route": "chap5_4"
-                    }
-                ]
-           },
-           	"chap5_4": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"That is not said right,\" said the Caterpillar.</p><p>\"Not <em>quite</em> right, I'm afraid,\" said Alice, timidly; \"some of the words have got altered.\"</p><p>\"It is wrong from beginning to end,\" said the Caterpillar decidedly, and there was silence for some minutes.</p><p>The Caterpillar was the first to speak.</p><div class=\"question\"><p>What does the Caterpillar ask Alice about?</p></div>",
-            	"choices": [
-                    {
-                        "text": "Alice's size...",
-                        "route": "chap5_5a"
-                    },
-                    {
-                        "text": "Alice's age...",
-                        "route": "chap5_5b"
-                    }
-                ]
-           },
-           	"chap5_5a": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"What size do you want to be?\" it asked.</p><p>\"Oh, I'm not particular as to size,\" Alice hastily replied; \"only one doesn't like changing so often, you know.\"</p><p>\"I <em>don't</em> know,\" said the Caterpillar.</p><p>Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper.</p><p>\"Are you content now?\" said the Caterpillar.</p><p>\"Well, I should like to be a <em>little</em> larger, sir, if you wouldn't mind,\" said Alice: \"three inches is such a wretched height to be.\"</p><p>\"It is a very good height indeed!\" said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three inches high).</p><p>\"But I'm not used to it!\" pleaded poor Alice in a piteous tone. And she thought of herself, \"I wish the creatures wouldn't be so easily offended!\"</p><p>\"You'll get used to it in time,\" said the Caterpillar; and it put the hookah into its mouth and began smoking again.</p><p>This time Alice waited patiently until it chose to speak again. In a minute or two the Caterpillar took the hookah out of its mouth and yawned once or twice, and shook itself. Then it got down off the mushroom, and crawled away in the grass, merely remarking as it went, \"One side will make you grow taller, and the other side will make you grow shorter.\"</p><p>\"One side of <em>what?</em> The other side of <em>what?</em>\" thought Alice to herself.</p><p>\"Of the mushroom,\" said the Caterpillar, just as if she had asked it aloud; and in another moment it was out of sight.</p>",
-            	"choices": [
-                    {
-                        "text": "Look closer at the mushroom...",
-                        "route": "chap5_6"
-                    }
-                ]
-           },
-           	"chap5_5b": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>\"What age do you want to be?\" it asked.</p><p>\"Oh, I'm not particular as to age,\" Alice hastily replied; \"only one doesn't like aging too fast or too slow, you know.\"</p><p>\"I <em>don't</em> know,\" said the Caterpillar.</p><p>Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper.</p><p>\"Are you young now?\" said the Caterpillar.</p><p>\"Well, I should like to be a <em>little</em> older, sir, if you wouldn't mind,\" said Alice, thinking of all the things her sister was allowed to do that Alice was not. \"A bit older would be nice.\"</p><p>\"To throw away youth on a whim!\" said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three weeks old).</p><p>\"But I'm tired of it!\" pleaded poor Alice in a piteous tone. And she thought of herself, \"I wish the creatures wouldn't be so easily offended!\"</p><p>\"You'll get used to it in time,\" said the Caterpillar; and it put the hookah into its mouth and began smoking again.</p><p>This time Alice waited patiently until it chose to speak again. In a minute or two, when she had heard nothing more, she noticed the Caterpillar had become a chrysalis hanging behind the mushroom. Beside it was a sign written in clear and neat letters-</p><p>\"Look to the sides,\" it read.</p>",
-            	"choices": [
-                    {
-                        "text": "Look closer at the mushroom...",
-                        "route": "chap5_6"
-                    }
-                ]
-           },
-           	"chap5_6": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>Alice remained looking thoughtfully at the mushroom for a minute, trying to make out which were the two sides of it; and as it was perfectly round, she found this a very difficult question. However, at last she stretched her arms round it as far as they would go, and broke off a bit of the edge with each hand.</p><p>\"And now which is which?\" she said to herself, and nibbled a little of the right-hand bit to try the effect: the next moment she felt a violent blow underneath her chin: it had struck her foot!</p><p>She was a good deal frightened by this very sudden change, but she felt that there was no time to be lost, as she was shrinking rapidly; so she set to work at once to eat some of the other bit. Her chin was pressed so closely against her foot, that there was hardly room to open her mouth; but she did it at last, and managed to swallow a morsel of the lefthand bit.</p><p>\"Come, my head's free at last!\" said Alice in a tone of delight, which changed into alarm in another moment, when she found that her shoulders were nowhere to be found: all she could see, when she looked down, was an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far below her.</p><p>\"What <em>can</em> all that green stuff be?\" said Alice. \"And where <em>have</em> my shoulders got to? And oh, my poor hands, how is it I can't see you?\" She was moving them about as she spoke, but no result seemed to follow, except a little shaking among the distant green leaves.</p><div class=\"question\"><p>What emerges from the leaves?</p></div>",
-            	"choices": [
-                    {
-                        "text": "The Pigeon",
-                        "route": "chap5_7a"
-                    },
-                    {
-                        "text": "The Snakes",
-                        "route": "chap5_7b"
-                    }
-                ]
-           },
-           	"chap5_7a": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which she found to be nothing but the tops of the trees under which she had been wandering, when a sharp hiss made her draw back in a hurry: a large pigeon had flown into her face, and was beating her violently with its wings.</p><p>\"Serpent!\" screamed the Pigeon.</p><p>\"I'm <em>not</em> a serpent!\" said Alice indignantly. \"Let me alone!\"</p><p>\"Serpent, I say again!\" repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, \"I've tried every way, and nothing seems to suit them!\"</p><p>\"I haven't the least idea what you're talking about,\" said Alice.</p><p>\"I've tried the roots of trees, and I've tried banks, and I've tried hedges,\" the Pigeon went on, without attending to her; \"but those serpents! There's no pleasing them!\"</p><p>Alice was more and more puzzled, but she thought there was no use in saying anything more till the Pigeon had finished.</p><p>\"As if it wasn't trouble enough hatching the eggs,\" said the Pigeon; \"but I must be on the look-out for serpents night and day! Why, I haven't had a wink of sleep these three weeks!\"</p><p>\"I'm very sorry you've been annoyed,\" said Alice, who was beginning to see its meaning.</p><p>\"And just as I'd taken the highest tree in the wood,\" continued the Pigeon, raising its voice to a shriek, \"and just as I was thinking I should be free of them at last, they must needs come wriggling down from the sky! Ugh, Serpent!\"</p><p>\"But I'm <em>not</em> a serpent, I tell you!\" said Alice. \"I'm a-I'm a-\"</p><p>\"Well! <em>What</em> are you?\" said the Pigeon. \"I can see you're trying to invent something!\"</p><p>\"I-I'm a little girl,\" said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.</p><p>\"A likely story indeed!\" said the Pigeon in a tone of the deepest contempt. \"I've seen a good many little girls in my time, but never <em>one</em> with such a neck as that! No, no! You're a serpent; and there's no use denying it. I suppose you'll be telling me next that you never tasted an egg!\"</p><p>\"I <em>have</em> tasted eggs, certainly,\" said Alice, who was a very truthful child; \"but little girls eat eggs quite as much as serpents do, you know.\"</p><p>\"I don't believe it,\" said the Pigeon; \"but if they do, why then they're a kind of serpent, that's all I can say.\"</p><p>This was such a new idea to Alice, that she was quite silent for a minute or two, which gave the Pigeon the opportunity of adding, \"You're looking for eggs, I know <em>that</em> well enough; and what does it matter to me whether you're a little girl or a serpent?\"</p><p>\"It matters a good deal to <em>me</em>,\" said Alice hastily; \"but I'm not looking for eggs, as it happens; and if I was, I shouldn't want <em>yours</em>: I don't like them raw.\"</p><p>\"Well, be off, then!\" said the Pigeon in a sulky tone, as it settled down again into its nest. Alice crouched down among the trees as well as she could, for her neck kept getting entangled among the branches, and every now and then she had to stop and untwist it. After a while she remembered that she still held the pieces of mushroom in her hands, and she set to work very carefully, nibbling first at one and then at the other, and growing sometimes taller and sometimes shorter, until she had succeeded in bringing herself down to her usual height.</p>",
-            	"choices": [
-                    {
-                        "text": "Let us return Alice to a proper size...",
-                        "route": "chap5_8"
-                    }
-                ]
-           },
-           	"chap5_7b": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, a chorus of hissing voices made her draw back in a hurry: a parade of green snakes slithered from the grass and entwined themselves about her.</p><p>Each of the snakes gazed at her, their eyes rimmed with soot (as was the fashion in their days). Together they sang-</p><p class=\"poem\">\"Nightshades on a warning<br />   Give me strength at least give me a light<br />   Give me anything even sympathy<br />   There's a chance you could be right<br />\"If I listen close I can hear them singers, oh<br />   The union of the snake is on the climb<br />   Moving up it's gonna race it's gonna break<br />   Through the borderline</p><p>The parade gathered Alice up and seemed about to sweep her away into the grass.</p><p>\"But I'm <em>not</em> a serpent, I tell you!\" said Alice. \"I'm a-I'm a-\"</p><p>\"Well! <em>What</em> are you?\" said the snakes. \"We can see you're trying to invent something!\"</p><p>\"I-I'm a little girl,\" said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.</p><p>\"A LITTLE GIRL!\" the snakes shrieked as they dropped Alice, sending her flopping down like a discarded rope. \"Not the one from the Garden again? Begone! Begone!\" (and the snakes slithered away, out of sight, and were never seen by Alice again).</p>",
-            	"choices": [
-                    {
-                        "text": "Let us return Alice to a proper size...",
-                        "route": "chap5_8"
-                    }
-                ]
-           },
-           	"chap5_8": {
-            	"text": "<h2>Chapter V: Advice from A Caterpillar</h2><p>It was so long since she had been anything near the right size, that it felt quite strange at first; but she got used to it in a few minutes, and began talking to herself, as usual. \"Come, there's half my plan done now! How puzzling all these changes are! I'm never sure what I'm going to be, from one minute to another! However, I've got back to my right size: the next thing is, to get into that beautiful garden-how <em>is</em> that to be done, I wonder?\" As she said this, she came suddenly upon an open place, with a little house in it about four feet high. \"Whoever lives there,\" thought Alice, \"it'll never do to come upon them <em>this</em> size: why, I should frighten them out of their wits!\" So she began nibbling at the righthand bit again, and did not venture to go near the house till she had brought herself down to nine inches high.</p>",
-            	"choices": [
-                    {
-                        "text": "A Mad Tea Party lies ahead...",
-                        "route": "chap7"
-                    }
-                ]
-           },
-            "chap7": {
-            	"text": "<h2>Chapter VII: A Mad Tea Party</h2><p>There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head.</p><p>\"Very uncomfortable for the Dormouse,\" thought Alice; \"only, as it's asleep, I suppose it doesn't mind.\"</p><p>The table was a large one, but the three were all crowded together at one corner of it: \"No room! No room!\" they cried out when they saw Alice coming. \"There's plenty of room!\" said Alice indignantly, and she sat down in a large arm-chair at one end of the table.</p><p>\"Have some wine,\" the March Hare said in an encouraging tone.</p>",
-            	"choices": [
-                    {
-                        "text": "Accept Wine",
-                        "route": "wine"
-                    },
-                    {
-                        "text": "Refuse Wine",
-                        "route": "wine"
-                    }
-                ]
-           },
-         "wine": {
-                "text": "<h2>Chapter VII. A Mad Tea Party</h2><p>Alice looked all round the table, but there was nothing on it but tea. \"I don't see any wine,\" she remarked.</p><p>\"There isn't any,\" said the March Hare.</p><p>\"Then it wasn't very civil of you to offer it,\" said Alice angrily.</p><p>\"It wasn't very civil of you to sit down without being invited,\" said the March Hare.</p><p>\"I didn't know it was your table,\" said Alice; \"it's laid for a great many more than three.\"</p><p>\"Your hair wants cutting,\" said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.</p><p>\"You should learn not to make personal remarks,\" Alice said with some severity; \"it's very rude.\"</p><p>The Hatter opened his eyes very wide on hearing this; but all he said was, \"Why is a raven like a writing-desk?\"</p><p>\"Come, we shall have some fun now!\" thought Alice. \"I'm glad they've begun asking riddles.—I believe I can guess that,\" she added aloud.</p><p>\"Do you mean that you think you can find out the answer to it?\" said the March Hare.</p><p>\"Exactly so,\" said Alice.</p><p>\"Then you should say what you mean,\" the March Hare went on.</p><p>\"I do,\" Alice hastily replied; \"at least—at least I mean what I say—that's the same thing, you know.\"</p>"
+    "name": "Alice in Wonderland",
+    "mainText": {
+        "chap4_1": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something; and she heard it muttering to itself \"The Duchess! The Duchess! Oh my dear paws! Oh my fur and whiskers! She'll get me executed, as sure as ferrets are ferrets! Where can I have dropped them, I wonder?\"</p><p>Alice guessed in a moment that it was looking for the fan and the pair of white kid gloves, and she very good-naturedly began hunting about for them, but they were nowhere to be seen - everything seemed to have changed since her swim in the pool, and the great hall, with the glass table and the little door, had vanished completely.</p><p>Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, \"Why, Mary Ann, what are you doing out here?\"</p>",
+            "choices": [
+                {
+                    "text": "I'm not Maryann",
+                    "route": "chap4_2"
+                }, {
+                    "text": "Do what the rabbit says",
+                    "route": "chap4_2"
+                }
+            ]
+        },
+        "chap4_2": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>\"Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!\" And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.</p><p>\"He took me for his housemaid,\" she said to herself as she ran. \"How surprised he'll be when he finds out who I am! But I'd better take him his fan and gloves-that is, if I can find them.\" As she said this, she came upon a neat little house, on the door of which was a bright brass plate with the name \"W. RABBIT,\" engraved upon it. She went in without knocking, and hurried upstairs, in great fear lest she should meet the real Mary Ann, and be turned out of the house before she had found the fan and gloves.</p><p>\"How queer it seems,\" Alice said to herself, \"to be going messages for a rabbit! I suppose Dinah'll be sending me on messages next!\" And she began fancying the sort of thing that would happen: \"'Miss Alice! Come here directly, and get ready for your walk!' 'Coming in a minute, nurse! But I've got to see that the mouse doesn't get out.' Only I don't think,\" Alice went on, \"that they'd let Dinah stop in the house if it began ordering people about like that!\"</p><p>By this time she had found her way into a tidy little room with a table in the window, and on it (as she had hoped) a fan and two or three pairs of tiny white kid gloves: she took up the fan and a pair of the gloves, and was just going to leave the room, when her eye fell upon a little bottle that stood near the looking-glass.</p>",
+            "choices": [
+                {
+                    "text": "DRINK ME",
+                    "route": "chap4_3"
+                }, {
+                    "text": "I won't drink",
+                    "route": "chap4_3a"
+                }
+            ]
+        },
+        "chap4_3": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>There was no label this time with the words \"DRINK ME,\" but nevertheless she uncorked it and put it to her lips. \"I know something interesting is sure to happen,\" she said to herself, \"Whenever I eat or drink anything; so I'll just see what this bottle does. I do hope it'll make me grow large again, for really I'm quite tired of being such a tiny little thing!\"</p><p>It did so indeed, and much sooner than she had expected: before she had drunk half the bottle, she found her head pressing against the ceiling, and had to stoop to save her neck from being broken. She hastily put down the bottle, saying to herself \"That's quite enough - I hope I shan't grow any more - As it is, I can't get out at the door-I do wish I hadn't drunk quite so much!\"</p><p>Alas! it was too late to wish that! She went on growing, and growing, and very soon had to kneel down on the floor: in another minute there was not even room for this, and she tried the effect of lying down with one elbow against the door, and the other arm curled round her head. Still she went on growing, and, as a last resource, she put one arm out of the window, and one foot up the chimney, and said to herself \"Now I can do no more, whatever happens. What will become of me?\"</p><p>Luckily for Alice, the little magic bottle had now had its full effect, and she grew no larger: still it was very uncomfortable, and, as there seemed to be no sort of chance of her ever getting out of the room again, no wonder she felt unhappy.</p><p>\"It was much pleasanter at home,\" thought poor Alice, \"when one wasn't always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn't gone down that rabbit-hole-and yet-and yet-it's rather curious, you know, this sort of life! I do wonder what can have happened to me! When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, I'll write one-but I'm grown up now,\" she added in a sorrowful tone; \"at least there's no room to grow up any more here.\"</p><p>\"But then,\" thought Alice, \"shall I never get any older than I am now? That'll be a comfort, one way - never to be an old woman - but then-always to have lessons to learn! Oh, I shouldn't like that!\"</p><p>\"Oh, you foolish Alice!\" she answered herself. \"How can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\"</p><p>And so she went on, taking first one side and then the other, and making quite a conversation of it altogether; but after a few minutes she heard a voice outside, and stopped to listen.</p>", 
+            "choices": [
+                {
+                    "text": "Who could it be?",
+                    "route": "chap4_4"
+                }
+            ]
+        },
+        "chap4_3a": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>Alice started to get bored.</p>",
+            "choices": [
+                {
+                    "text": "DRINK ME",
+                    "route": "chap4_3"
+                }
+            ]
+        },
+        "chap4_4": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>\"Mary Ann! Mary Ann!\" said the voice. \"Fetch me my gloves this moment!\" Then came a little pattering of feet on the stairs. Alice knew it was the Rabbit coming to look for her, and she trembled till she shook the house, quite forgetting that she was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it.</p><p>Presently the Rabbit came up to the door, and tried to open it; but, as the door opened inwards, and Alice's elbow was pressed hard against it, that attempt proved a failure. Alice heard it say to itself \"Then I'll go round and get in at the window.\"</p><p>\"That you won't!\" thought Alice, and, after waiting till she fancied she heard the Rabbit just under the window, she suddenly spread out her hand, and made a snatch in the air. She did not get hold of anything, but she heard a little shriek and a fall, and a crash of broken glass, from which she concluded that it was just possible it had fallen into a cucumber-frame, or something of the sort.</p>",
+            "choices": [
+                {
+                    "text": "Is he okay?",
+                    "route": "chap4_5"
+                }
+            ]
+        },
+        "chap4_5": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>Next came an angry voice-the Rabbit's - \"Pat! Pat! Where are you?\" And then a voice she had never heard before, \"Sure then I'm here! Digging for apples, yer honour!\"</p><p>\"Digging for apples, indeed!\" said the Rabbit angrily. \"Here! Come and help me out of this!\" (Sounds of more broken glass.)</p><p>\"Now tell me, Pat, what's that in the window?\"</p><p>\"Sure, it's an arm, yer honour!\" (He pronounced it \"arrum.\")</p><p>\"An arm, you goose! Who ever saw one that size? Why, it fills the whole window!\"</p><p>\"Sure, it does, yer honour: but it's an arm for all that.\"</p><p>\"Well, it's got no business there, at any rate: go and take it away!\"</p><p>There was a long silence after this, and Alice could only hear whispers now and then; such as, \"Sure, I don't like it, yer honour, at all, at all!\" \"Do as I tell you, you coward!\" and at last she spread out her hand again, and made another snatch in the air. This time there were two little shrieks, and more sounds of broken glass. \"What a number of cucumber-frames there must be!\" thought Alice. \"I wonder what they'll do next! As for pulling me out of the window, I only wish they could! I'm sure <i>I</i> don't want to stay in here any longer!\"</p>",
+            "choices": [
+                {
+                    "text": "What <i>will</i> they do next?",
+                    "route": "chap4_6"
+                }
+            ]
+        },
+        "chap4_6": {
+            "randomize": false,
+            "chapter":"Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: \"Where's the other ladder? - Why, I hadn't to bring but one; Bill's got the other - Bill! fetch it here, lad! - Here, put 'em up at this corner - No, tie 'em together first - they don't reach half high enough yet - Oh! they'll do well enough; don't be particular - Here, Bill! catch hold of this rope - Will the roof bear? - Mind that loose slate - Oh, it's coming down! Heads below!\" (a loud crash) - \"Now, who did that? - It was Bill, I fancy - Who's to go down the chimney? - Nay, I shan't! You do it! - That I won't, then! - Bill's to go down - Here, Bill! the master says you're to go down the chimney!\"</p><p>\"Oh! So Bill's got to come down the chimney, has he?\" said Alice to herself. \"Shy, they seem to put everything upon Bill! I wouldn't be in Bill's place for a good deal: this fireplace is narrow, to be sure; but I think I can kick a little!\"</p><p>She drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldn't guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself \"This is Bill,\" she gave one sharp kick, and waited to see what would happen next.</p><p>The first thing she heard was a general chorus of \"There goes Bill!\" then the Rabbit's voice along - \"Catch him, you by the hedge!\" then silence, and then another confusion of voices - \"Hold up his head - Brandy now - Don't choke him - How was it, old fellow? What happened to you? Tell us all about it!\"</p><p>Last came a little feeble, squeaking voice, (\"That's Bill,\" thought Alice,) \"Well, I hardly know - No more, thank ye; I'm better now - but I'm a deal too flustered to tell you - all I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!\"</p><p>\"So you did, old fellow!\" said the others.</p><p>\"We must burn the house down!\" said the Rabbit's voice; and Alice called out as loud as she could, \"If you do, I'll set Dinah at you!\"</p><p>There was a dead silence instantly, and Alice thought to herself, \"I wonder what they will do next! If they had any sense, they'd take the roof off.\" After a minute or two, they began moving about again, and Alice heard the Rabbit say, \"A barrowful will do, to begin with.\"</p><p>\"A barrowful of <i>what</i>?\" thought Alice; but she had not long to doubt, for the next moment a shower of little pebbles came rattling in at the window, and some of them hit her in the face. \"I'll put a stop to this.\" </p>",
+            "choices": [
+                {
+                    "text": "\"You'd better not do that again!\"",
+                    "route": "chap4_7"
+                }, {
+                    "text": "\"Wake me up!\"",
+                    "route": "end"
+                }
+            ]
+        },
+        "chap4_7": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>This produced another dead silence.</p><p>Alice noticed with some surprise that the pebbles were all turning into little cakes as they lay on the floor, and a bright idea came into her head. \"If I eat one of these cakes,\" she thought, \"it's sure to make some change in my size; and as it can't possibly make me larger, it must make me smaller, I suppose.\"</p>",
+            "choices": [
+                {
+                    "text": "Eat the cake",
+                    "route": "chap4_8"
+                }, {
+                    "text": "Not for me",
+                    "route": "chap4_8a"
+                }
+            ]
+        },
+        "chap4_8": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>So she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside. The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle. They all made a rush at Alice the moment she appeared;</p>",
+            "choices": [
+                {
+                    "text": "Confront the animals",
+                    "route": "chap4_9"
+                }, {
+                    "text": "Run into the woods",
+                    "route": "chap4_9"
+                }
+            ]
+        },
+        "chap4_8a": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>. . . Alice's arms and legs were beginning to fall asleep.</p>",
+            "choices": [
+                {
+                    "text": "Eat the cake",
+                    "route": "chap4_8"
+                }
+            ]
+        },
+        "chap4_9": {
+            "randomize": false,
+            "chapter": "Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>She ran off as hard as she could, and soon found herself safe in a thick wood.</p><p>\"The first thing I've got to do,\" said Alice to herself, as she wandered about in the wood, \"is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.\"</p><p>It sounded an excellent plan, no doubt, and very neatly and simply arranged; the only difficulty was, that she had not the smallest idea how to set about it; and while she was peering about anxiously among the trees, a little sharp bark just over her head made her look up in a great hurry.</p><p>An enormous puppy was looking down at her with large round eyes, and feebly stretching out one paw, trying to touch her. \"Poor little thing!\" said Alice, in a coaxing tone, and she tried hard to whistle to it; but she was terribly frightened all the time at the thought that it might be hungry, in which case it would be very likely to eat her up in spite of all her coaxing.</p><p>Hardly knowing what she did, she picked up a little bit of stick, and held it out to the puppy; whereupon the puppy jumped into the air off all its feet at once, with a yelp of delight, and rushed at the stick, and made believe to worry it; then Alice dodged behind a great thistle, to keep herself from being run over; and the moment she appeared on the other side, the puppy made another rush at the stick, and tumbled head over heels in its hurry to get hold of it; then Alice, thinking it was very like having a game of play with a cart-horse, and expecting every moment to be trampled under its feet, ran round the thistle again; then the puppy began a series of short charges at the stick, running a very little way forwards each time and a long way back, and barking hoarsely all the while, till at last it sat down a good way off, panting, with its tongue hanging out of its mouth, and its great eyes half shut.</p><p>This seemed to Alice a good opportunity for making her escape; so she set off at once, and ran till she was quite tired and out of breath, and till the puppy's bark sounded quite faint in the distance.</p>",
+            "choices": [
+                {
+                    "text": "Sadly, onward we must go",
+                    "route": "chap4_10"
+                }
+            ]
+        },
+        "chap4_10": {
+            "randomize": false,
+            "chapter":"Chapter IV. The Rabbit Sends in a Little Bill",
+            "text": "<p>\"And yet what a dear little puppy it was!\" said Alice, as she leant against a buttercup to rest herself, and fanned herself with one of the leaves: \"I should have liked teaching it tricks very much, if - if I'd only been the right size to do it! Oh dear! I'd nearly forgotten that I've got to grow up again! Let me see-how is it to be managed? I suppose I ought to eat or drink something or other; but the great question is, what?\"</p><p>The great question certainly was, what? Alice looked all round her at the flowers and the blades of grass, but she did not see anything that looked like the right thing to eat or drink under the circumstances. There was a large mushroom growing near her, about the same height as herself; and when she had looked under it, and on both sides of it, and behind it, it occurred to her that she might as well look and see what was on the top of it.</p><p>She stretched herself up on tiptoe, and peeped over the edge of the mushroom, and her eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded, quietly smoking a long hookah, and taking not the smallest notice of her or of anything else.</p>",
+            "choices": [
+                {
+                    "text": "What wisdom can the caterpillar give Alice?",
+                    "route": "chap5_1"
+                }
+            ]
+        },
+        "chap5_1": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.</p><p>\"Who are <em>you?</em>\" said the Caterpillar.</p><p>This was not an encouraging opening for a conversation. Alice replied, rather shyly, \"I-I hardly know, sir, just at present-at least I know who I <em>was</em> when I got up this morning, but I think I must have been changed several times since then.\"</p><p>\"What do you mean by that?\" said the Caterpillar sternly. \"Explain yourself!\"</p><p>\"I can't explain <em>myself</em>, I'm afraid, sir,\" said Alice, \"because I'm not myself, you see.\"</p><p>\"I don't see,\" said the Caterpillar.</p><p>\"I'm afraid I can't put it more clearly,\" Alice replied very politely, \"for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.\"</p><p>\"It isn't,\" said the Caterpillar.</p><p>\"Well, perhaps you haven't found it so yet,\" said Alice; \"but when you have to turn into a chrysalis-you will some day, you know-and then after that into a butterfly, I should think you'll feel it a little queer, won't you?\"</p><p>\"Not a bit,\" said the Caterpillar.</p><p>\"Well, perhaps your feelings may be different,\" said Alice; \"all I know is, it would feel very queer to <em>me</em>.\"</p><p>\"You!\" said the Caterpillar contemptuously. \"Who are <em>you?</em>\"</p><p>Which brought them back again to the beginning of the conversation. Alice felt a little irritated at the Caterpillar's making such <em>very</em> short remarks, and she drew herself up and said, very gravely, \"I think, you ought to tell me who <em>you</em> are, first.\"</p><p>\"Why?\" said the Caterpillar.</p><p>Here was another puzzling question; and as Alice could not think of any good reason, and as the Caterpillar seemed to be in a <em>very</em> unpleasant state of mind, she turned away.</p><p>\"Come back!\" the Caterpillar called after her. \"I've something important to say!\"</p><p>This sounded promising, certainly: Alice turned and came back again.</p><div class=\"question\"><p>What does the Caterpillar tell Alice?</p></div>",
+            "choices": [
+                {
+                    "text": "Keep your temper.",
+                    "route": "chap5_2a"
+                },
+                {
+                    "text": "Everything changes.",
+                    "route": "chap5_2b"
+                },
+                {
+                    "text": "Words are lies.",
+                    "route": "chap5_2c"
+                }
+            ]
+        },
+        "chap5_2a": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"Keep your temper,\" said the Caterpillar.</p><p>\"Is that all?\" said Alice, swallowing down her anger as well as she could.</p><p>\"No,\" said the Caterpillar.</p><p>Alice thought she might as well wait, as she had nothing else to do, and perhaps after all it might tell her something worth hearing. For some minutes it puffed away without speaking, but at last it unfolded its arms, took the hookah out of its mouth again, and said, \"So you think you're changed, do you?\"</p><p>\"I'm afraid I am, sir,\" said Alice; \"I can't remember things as I used-and I don't keep the same size for ten minutes together!\"</p><p>\"Can't remember <em>what</em> things?\" said the Caterpillar.</p><p>\"Well, I've tried to say \"How doth the little busy bee,\" but it all came different!\" Alice replied in a very melancholy voice.</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
+            "choices": [
+                {
+                    "text": "Age...",
+                    "route": "chap5_3a"
+                },
+                {
+                    "text": "Quality...",
+                    "route": "chap5_3b"
+                },
+                {
+                    "text": "Time...",
+                    "route": "chap5_3c"
+                }
+            ]
+        },
+        "chap5_2b": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"Everything always changes, or rather, nothing ever changes,\" said the Caterpillar.</p><p>\"Easy for you to say!\" stammered Alice, clenching her fists at her side. \"You are caterpillar about to change into a butterfly! I am a girl, and I'm, not supposed to be changing size.\"</p><p>\"You are <em>little</em> girl, or so you suppose to be,\" said the Caterpillar, blowing a ring of blue smoke about Alice's head. \"Are you a baby? Are you an old woman? Are you the soil beneath a tree?\"</p><p>\"Of course not,\" a petulant Alice said, waving away the smoke with her hands.</p><p>\"Shows what you know,\" replied the Caterpillar as he again put the hookah to his mouth. \"Only you have your <em>now</em>, if you can keep it.\"</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
+            "choices": [
+                {
+                    "text": "Age...",
+                    "route": "chap5_3a"
+                },
+                {
+                    "text": "Quality...",
+                    "route": "chap5_3b"
+                },
+                {
+                    "text": "Time...",
+                    "route": "chap5_3c"
+                }
+            ]
+        },
+        "chap5_2c": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"All words are lies,\" said the Caterpillar.</p><p>\"Maybe here in this strange place they are,\" spat Alice, feeling her anger turn to suspicion. \"You clearly love to sit on your mushroom, smoking away. What use do you have for lies?\"</p> <p>\"Everything and nothing,\" said the Caterpillar, blowing a ring of blue smoke about Alice's head. \"Does my love have anything in common to your love? Does the mushroom really <em>MUSHROOM</em>, or do we all lie and just say that it does? Am I sitting, or simply pausing while I fall down?\"</p><p>Alice looked around, hoping to find some sense beneath the Caterpillar's mushroom, but she found nothing.</p><p>\"Leave that nothing alone,\" warned the Caterpillar, \"else the <em>Gribblegrin</em> will come and <em>blorplelate</em> your <em>spizzinget</em> for <em>frundlement</em>.\"<p>\"You just made up those words,\" said Alice.</p><p>\"All words are made up,\" replied the Caterpillar.</p><div class=\"question\"><p>What must the Caterpillar remind Alice about?</p></div>",
+            "choices": [
+                {
+                    "text": "Age...",
+                    "route": "chap5_3a"
+                },
+                {
+                    "text": "Quality...",
+                    "route": "chap5_3b"
+                },
+                {
+                    "text": "Time...",
+                    "route": "chap5_3c"
+                }
+            ]
+        },
+        "chap5_3a": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"Repeat, \"<em>You are old, Father William</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"You are old, Father William,\" the young man said,<br>    \"And your hair has become very white;<br>And yet you incessantly stand on your head-<br>    Do you think, at your age, it is right?\"<br><br>\"In my youth,\" Father William replied to his son,<br>    \"I feared it might injure the brain;<br>But, now that I'm perfectly sure I have none,<br>    Why, I do it again and again.\"<br><br>\"You are old,\" said the youth, \"as I mentioned before,<br>    And have grown most uncommonly fat;<br>Yet you turned a back-somersault in at the door-<br>    Pray, what is the reason of that?\"<br><br>\"In my youth,\" said the sage, as he shook his grey locks,<br>    \"I kept all my limbs very supple<br>By the use of this ointment-one shilling the box-<br>    Allow me to sell you a couple?\"<br><br>\"You are old,\" said the youth, \"and your jaws are too weak<br>    For anything tougher than suet;<br>Yet you finished the goose, with the bones and the beak-<br>    Pray, how did you manage to do it?\"<br><br>\"In my youth,\" said his father, \"I took to the law,<br>    And argued each case with my wife;<br>And the muscular strength, which it gave to my jaw,<br>    Has lasted the rest of my life.\"<br><br>\"You are old,\" said the youth, \"one would hardly suppose<br>    That your eye was as steady as ever;<br>Yet you balanced an eel on the end of your nose-<br>    What made you so awfully clever?\"<br><br>\"I have answered three questions, and that is enough,\"<br>    Said his father; \"don't give yourself airs!<br>Do you think I can listen all day to such stuff?<br>    Be off, or I'll kick you down stairs!\"</p>",
+            "choices": [
+                {
+                    "text": "And what did the Caterpillar say to that?",
+                    "route": "chap5_4"
+                }
+            ]
+        },
+        "chap5_3c": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"Repeat, '<em>Ticking away the moments that make up a dull day</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"Ticking away the moments that make up a dull day<br />   You fritter and waste the hours in an off-hand way<br />   Kicking around on a piece of ground in your home town<br />   Waiting for someone or something to show you the way<br />\"Tired of lying in the sunshine, staying home to watch the rain<br />   And you are young and life is long, and there is time to kill today<br />   And then one day you find ten years have got behind you<br />   No one told you when to run, you missed the starting gun<br />\"And you run and you run to catch up with the sun but it's sinking<br />   Racing around to come up behind you again<br />   Sun is the same, in a relative way, but you're older<br />   Shorter of breath and one day closer to death.\"</p>",
+            "choices": [
+                {
+                    "text": "Waitaminute, isn't that a song by Pink Floyd?",
+                    "route": "chap5_4"
+                }
+            ]
+        },
+        "chap5_3b": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"Repeat, '<em>And the men who hold high places</em>,'\" said the Caterpillar.</p><p>Alice folded her hands, and began:-</p><p class=\"poem\">\"And the men who hold high places<br />    Must be the ones who start<br />To mold a new reality<br />    Closer to the heart<br />    Closer to the heart<br />\"The blacksmith and the artist<br />    Reflect it in their art<br />    They forge their creativity<br />Closer to the heart<br />Yes closer to the heart<br />\"Philosophers and ploughmen<br />    Each must know his part<br />    To sow a new mentality<br />    Closer to the heart<br />    Yes closer to the heart, yeah.\"</p>",
+            "choices": [
+                {
+                    "text": "Waitaminute, isn't that a song by Rush?",
+                    "route": "chap5_4"
+                }
+            ]
+        },
+        "chap5_4": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"That is not said right,\" said the Caterpillar.</p><p>\"Not <em>quite</em> right, I'm afraid,\" said Alice, timidly; \"some of the words have got altered.\"</p><p>\"It is wrong from beginning to end,\" said the Caterpillar decidedly, and there was silence for some minutes.</p><p>The Caterpillar was the first to speak.</p><div class=\"question\"><p>What does the Caterpillar ask Alice about?</p></div>",
+            "choices": [
+                {
+                    "text": "Alice's size...",
+                    "route": "chap5_5a"
+                },
+                {
+                    "text": "Alice's age...",
+                    "route": "chap5_5b"
+                }
+            ]
+        },
+        "chap5_5a": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"What size do you want to be?\" it asked.</p><p>\"Oh, I'm not particular as to size,\" Alice hastily replied; \"only one doesn't like changing so often, you know.\"</p><p>\"I <em>don't</em> know,\" said the Caterpillar.</p><p>Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper.</p><p>\"Are you content now?\" said the Caterpillar.</p><p>\"Well, I should like to be a <em>little</em> larger, sir, if you wouldn't mind,\" said Alice: \"three inches is such a wretched height to be.\"</p><p>\"It is a very good height indeed!\" said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three inches high).</p><p>\"But I'm not used to it!\" pleaded poor Alice in a piteous tone. And she thought of herself, \"I wish the creatures wouldn't be so easily offended!\"</p><p>\"You'll get used to it in time,\" said the Caterpillar; and it put the hookah into its mouth and began smoking again.</p><p>This time Alice waited patiently until it chose to speak again. In a minute or two the Caterpillar took the hookah out of its mouth and yawned once or twice, and shook itself. Then it got down off the mushroom, and crawled away in the grass, merely remarking as it went, \"One side will make you grow taller, and the other side will make you grow shorter.\"</p><p>\"One side of <em>what?</em> The other side of <em>what?</em>\" thought Alice to herself.</p><p>\"Of the mushroom,\" said the Caterpillar, just as if she had asked it aloud; and in another moment it was out of sight.</p>",
+            "choices": [
+                {
+                    "text": "Look closer at the mushroom...",
+                    "route": "chap5_6"
+                }
+            ]
+        },
+        "chap5_5b": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>\"What age do you want to be?\" it asked.</p><p>\"Oh, I'm not particular as to age,\" Alice hastily replied; \"only one doesn't like aging too fast or too slow, you know.\"</p><p>\"I <em>don't</em> know,\" said the Caterpillar.</p><p>Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper.</p><p>\"Are you young now?\" said the Caterpillar.</p><p>\"Well, I should like to be a <em>little</em> older, sir, if you wouldn't mind,\" said Alice, thinking of all the things her sister was allowed to do that Alice was not. \"A bit older would be nice.\"</p><p>\"To throw away youth on a whim!\" said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three weeks old).</p><p>\"But I'm tired of it!\" pleaded poor Alice in a piteous tone. And she thought of herself, \"I wish the creatures wouldn't be so easily offended!\"</p><p>\"You'll get used to it in time,\" said the Caterpillar; and it put the hookah into its mouth and began smoking again.</p><p>This time Alice waited patiently until it chose to speak again. In a minute or two, when she had heard nothing more, she noticed the Caterpillar had become a chrysalis hanging behind the mushroom. Beside it was a sign written in clear and neat letters-</p><p>\"Look to the sides,\" it read.</p>",
+            "choices": [
+                {
+                    "text": "Look closer at the mushroom...",
+                    "route": "chap5_6"
+                }
+            ]
+        },
+        "chap5_6": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>Alice remained looking thoughtfully at the mushroom for a minute, trying to make out which were the two sides of it; and as it was perfectly round, she found this a very difficult question. However, at last she stretched her arms round it as far as they would go, and broke off a bit of the edge with each hand.</p><p>\"And now which is which?\" she said to herself, and nibbled a little of the right-hand bit to try the effect: the next moment she felt a violent blow underneath her chin: it had struck her foot!</p><p>She was a good deal frightened by this very sudden change, but she felt that there was no time to be lost, as she was shrinking rapidly; so she set to work at once to eat some of the other bit. Her chin was pressed so closely against her foot, that there was hardly room to open her mouth; but she did it at last, and managed to swallow a morsel of the lefthand bit.</p><p>\"Come, my head's free at last!\" said Alice in a tone of delight, which changed into alarm in another moment, when she found that her shoulders were nowhere to be found: all she could see, when she looked down, was an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far below her.</p><p>\"What <em>can</em> all that green stuff be?\" said Alice. \"And where <em>have</em> my shoulders got to? And oh, my poor hands, how is it I can't see you?\" She was moving them about as she spoke, but no result seemed to follow, except a little shaking among the distant green leaves.</p><div class=\"question\"><p>What emerges from the leaves?</p></div>",
+            "choices": [
+                {
+                    "text": "The Pigeon",
+                    "route": "chap5_7a"
+                },
+                {
+                    "text": "The Snakes",
+                    "route": "chap5_7b"
+                }
+            ]
+        },
+        "chap5_7a": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which she found to be nothing but the tops of the trees under which she had been wandering, when a sharp hiss made her draw back in a hurry: a large pigeon had flown into her face, and was beating her violently with its wings.</p><p>\"Serpent!\" screamed the Pigeon.</p><p>\"I'm <em>not</em> a serpent!\" said Alice indignantly. \"Let me alone!\"</p><p>\"Serpent, I say again!\" repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, \"I've tried every way, and nothing seems to suit them!\"</p><p>\"I haven't the least idea what you're talking about,\" said Alice.</p><p>\"I've tried the roots of trees, and I've tried banks, and I've tried hedges,\" the Pigeon went on, without attending to her; \"but those serpents! There's no pleasing them!\"</p><p>Alice was more and more puzzled, but she thought there was no use in saying anything more till the Pigeon had finished.</p><p>\"As if it wasn't trouble enough hatching the eggs,\" said the Pigeon; \"but I must be on the look-out for serpents night and day! Why, I haven't had a wink of sleep these three weeks!\"</p><p>\"I'm very sorry you've been annoyed,\" said Alice, who was beginning to see its meaning.</p><p>\"And just as I'd taken the highest tree in the wood,\" continued the Pigeon, raising its voice to a shriek, \"and just as I was thinking I should be free of them at last, they must needs come wriggling down from the sky! Ugh, Serpent!\"</p><p>\"But I'm <em>not</em> a serpent, I tell you!\" said Alice. \"I'm a-I'm a-\"</p><p>\"Well! <em>What</em> are you?\" said the Pigeon. \"I can see you're trying to invent something!\"</p><p>\"I-I'm a little girl,\" said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.</p><p>\"A likely story indeed!\" said the Pigeon in a tone of the deepest contempt. \"I've seen a good many little girls in my time, but never <em>one</em> with such a neck as that! No, no! You're a serpent; and there's no use denying it. I suppose you'll be telling me next that you never tasted an egg!\"</p><p>\"I <em>have</em> tasted eggs, certainly,\" said Alice, who was a very truthful child; \"but little girls eat eggs quite as much as serpents do, you know.\"</p><p>\"I don't believe it,\" said the Pigeon; \"but if they do, why then they're a kind of serpent, that's all I can say.\"</p><p>This was such a new idea to Alice, that she was quite silent for a minute or two, which gave the Pigeon the opportunity of adding, \"You're looking for eggs, I know <em>that</em> well enough; and what does it matter to me whether you're a little girl or a serpent?\"</p><p>\"It matters a good deal to <em>me</em>,\" said Alice hastily; \"but I'm not looking for eggs, as it happens; and if I was, I shouldn't want <em>yours</em>: I don't like them raw.\"</p><p>\"Well, be off, then!\" said the Pigeon in a sulky tone, as it settled down again into its nest. Alice crouched down among the trees as well as she could, for her neck kept getting entangled among the branches, and every now and then she had to stop and untwist it. After a while she remembered that she still held the pieces of mushroom in her hands, and she set to work very carefully, nibbling first at one and then at the other, and growing sometimes taller and sometimes shorter, until she had succeeded in bringing herself down to her usual height.</p>",
+            "choices": [
+                {
+                    "text": "Let us return Alice to a proper size...",
+                    "route": "chap5_8"
+                }
+            ]
+        },
+        "chap5_7b": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, a chorus of hissing voices made her draw back in a hurry: a parade of green snakes slithered from the grass and entwined themselves about her.</p><p>Each of the snakes gazed at her, their eyes rimmed with soot (as was the fashion in their days). Together they sang-</p><p class=\"poem\">\"Nightshades on a warning<br />   Give me strength at least give me a light<br />   Give me anything even sympathy<br />   There's a chance you could be right<br />\"If I listen close I can hear them singers, oh<br />   The union of the snake is on the climb<br />   Moving up it's gonna race it's gonna break<br />   Through the borderline</p><p>The parade gathered Alice up and seemed about to sweep her away into the grass.</p><p>\"But I'm <em>not</em> a serpent, I tell you!\" said Alice. \"I'm a-I'm a-\"</p><p>\"Well! <em>What</em> are you?\" said the snakes. \"We can see you're trying to invent something!\"</p><p>\"I-I'm a little girl,\" said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.</p><p>\"A LITTLE GIRL!\" the snakes shrieked as they dropped Alice, sending her flopping down like a discarded rope. \"Not the one from the Garden again? Begone! Begone!\" (and the snakes slithered away, out of sight, and were never seen by Alice again).</p>",
+            "choices": [
+                {
+                    "text": "Let us return Alice to a proper size...",
+                    "route": "chap5_8"
+                }
+            ]
+        },
+        "chap5_8": {
+            "randomize": false,
+            "chapter": "Chapter V. Advice from A Caterpillar",
+            "text": "<p>It was so long since she had been anything near the right size, that it felt quite strange at first; but she got used to it in a few minutes, and began talking to herself, as usual. \"Come, there's half my plan done now! How puzzling all these changes are! I'm never sure what I'm going to be, from one minute to another! However, I've got back to my right size: the next thing is, to get into that beautiful garden-how <em>is</em> that to be done, I wonder?\" As she said this, she came suddenly upon an open place, with a little house in it about four feet high. \"Whoever lives there,\" thought Alice, \"it'll never do to come upon them <em>this</em> size: why, I should frighten them out of their wits!\" So she began nibbling at the righthand bit again, and did not venture to go near the house till she had brought herself down to nine inches high.</p>",
+            "choices": [
+                {
+                    "text": "A Mad Tea Party lies ahead...",
+                    "route": "chap7"
+                }
+            ]
+        },
+        "chap7": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head.</p><p>\"Very uncomfortable for the Dormouse,\" thought Alice; \"only, as it's asleep, I suppose it doesn't mind.\"</p><p>The table was a large one, but the three were all crowded together at one corner of it: \"No room! No room!\" they cried out when they saw Alice coming. \"There's plenty of room!\" said Alice indignantly, and she sat down in a large arm-chair at one end of the table.</p><p>\"Have some wine,\" the March Hare said in an encouraging tone.</p>",
+            "choices": [
+                {
+                    "text": "Sure, wine sounds good!",
+                    "route": "chap7_1"
+                },
+                {
+                    "text": "No thank you - she is a child",
+                    "route": "chap7_1"
+                }
+            ]
+        },
+        "chap7_1": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>Alice looked all round the table, but there was nothing on it but tea. \"I don't see any wine,\" she remarked.</p><p>\"There isn't any,\" said the March Hare.</p><p>\"Then it wasn't very civil of you to offer it,\" said Alice angrily.</p><p>\"It wasn't very civil of you to sit down without being invited,\" said the March Hare.</p><p>\"I didn't know it was your table,\" said Alice; \"it's laid for a great many more than three.\"</p><p>\"Your hair wants cutting,\" said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.</p><p>\"You should learn not to make personal remarks,\" Alice said with some severity; \"it's very rude.\"</p><p>The Hatter opened his eyes very wide on hearing this; but all he said was, \"Why is a raven like a writing-desk?\"</p><p>\"Come, we shall have some fun now!\" thought Alice. \"I'm glad they've begun asking riddles.—I believe I can guess that,\" she added aloud.</p><p>\"Do you mean that you think you can find out the answer to it?\" said the March Hare.</p><p>\"Exactly so,\" said Alice.</p><p>\"Then you should say what you mean,\" the March Hare went on.</p><p>\"I do,\" Alice hastily replied; \"at least—at least I mean what I say—that's the same thing, you know.\"</p>",
+            "choices": [
+                {
+                    "text": "It is. . . right?",
+                    "route": "chap7_2"
+                }
+            ]
+        },
+        "chap7_2": {
+            "randomize": true,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>\"Not the same thing a bit!\" said the Hatter. “You might just as well say that '<span id='random-0'></span>!'\"</p><p>\"You might just as well say,\" added the March Hare, \"that '<span id='random-1'></span>!'</p><p>\"You might just as well say,\" added the Dormouse, who seemed to be talking in his sleep, \"that 'I breathe when I sleep' is the same thing as 'I sleep when I breathe'!\" -</p><p>\"It is the same thing with you,\" said the Hatter, and here the conversation dropped, and the party sat silent for a minute, while Alice thought over all she could remember about ravens and writing-desks, which wasn't much.</p>",
+            "choices": [
+                {
+                    "text": "Come to think of it, what do *I* know about ravens and writing-desks?",
+                    "route": "chap7_3"
+                }
+            ]
+        },
+        "chap7_3": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>The Hatter was the first to break the silence. \"What day of the month is it?\" he said, turning to Alice: he had taken his watch out of his pocket, and was looking at it uneasily, shaking it every now and then, and holding it to his ear.</p><p>Alice considered a little, and then said \"The fourth.\"</p><p>\"Two days wrong!\" sighed the Hatter. \"I told you butter wouldn't suit the works!\" he added looking angrily at the March Hare.</p><p>\"It was the best butter,\" the March Hare meekly replied.</p><p>\"Yes, but some crumbs must have got in as well,\" the Hatter grumbled: \"you shouldn't have put it in with the bread-knife.\"</p><p>The March Hare took the watch and looked at it gloomily: then he dipped it into his cup of tea, and looked at it again: but he could think of nothing better to say than his first remark, \"It was the best butter, you know.\"</p>",
+            "choices": [
+                {
+                    "text": "Alice, learn from your elders - Alice?",
+                    "route": "chap7_4"
+                }
+            ]
+        },
+        "chap7_4": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>Alice had been looking over his shoulder with some curiosity. \"What a funny watch!\" she remarked. \"It tells the day of the month, and doesn't tell what o'clock it is!\"</p><p>\"Why should it?\" muttered the Hatter. \"Does <i>your</i> watch tell you what year it is?\"</p><p>\"Of course not,\" Alice replied very readily: \"but that's because it stays the same year for such a long time together.\"</p><p>\"Which is just the case with <i>mine</i>,\" said the Hatter.</p><p>Alice felt dreadfully puzzled. The Hatter's remark seemed to have no sort of meaning in it, and yet it was certainly English. \"I don't quite understand you,\" she said, as politely as she could.</p><p>\"The Dormouse is asleep again,\" said the Hatter, and he poured a little hot tea upon its nose.</p><p>The Dormouse shook its head impatiently, and said, without opening its eyes, \"Of course, of course; just what I was going to remark myself.\"</p><p>\"Have you guessed the riddle yet?\" the Hatter said, turning to Alice again.</p>",
+            "choices": [
+                {
+                    "text": "\"Yes, I believe so.\"",
+                    "route": "chap7_5a"
+                },
+                {
+                    "text": "\"No, I give it up. What's the answer?\"",
+                    "route": "chap7_5"
+                }
+            ]
+        },
+        "chap7_5a": {
+            "randomize": true,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p id='random-0'></p>",
+            "choices": [
+                {
+                    "text": "Right...?",
+                    "route": "chap7_5"
+                }
+            ]
+        },
+        "chap7_5": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>\"I haven't the slightest idea,\" said the Hatter.</p><p>\"Nor I,\" said the March Hare.</p><p>Alice sighed wearily. \"I think you might do something better with the time,\" she said, \"than waste it in asking riddles that have no answers.\"</p><p>\"If you knew Time as well as I do,\" said the Hatter, \"you wouldn't talk about wasting it. It's <i>him</i>.\"</p><p>\"I don't know what you mean,\" said Alice.</p><p>\"Of course you don't!\" the Hatter said, tossing his head contemptuously. \"I dare say you never even spoke to Time!\"</p>",
+            "choices": [
+                {
+                    "text": "\"Sure, I have!\"",
+                    "route": "chap7_6a"
+                },
+                {
+                    "text": "\"Perhaps not...\"",
+                    "route": "chap7_6b"
+                }
+            ]
+        },
+        "chap7_6a": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"I keep time when I learn music, and I have to pay attention to time so I'm not late for supper. . . Again.\"</p><p>\"Ah, so you've kept and watched him, but not spoken or listened to him. If you'd merely made the effort. . .\"</p>",
+            "choices": [
+                {
+                    "text": "Pay attention when an adult is talking",
+                    "route": "chap7_7"
+                }, {
+                    "text": "Or don't",
+                    "route": "chap7_7a"
+                }
+            ]
+        },
+        "chap7_6b": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"but I know I have to beat time when I learn music.\" </p><p>\"Ah! that accounts for it,\" said the Hatter. \"He won't stand beating. Now, if you only kept on good terms with him. . .\"</p>",
+            "choices": [
+                {
+                    "text": "Pay attention when an adult is talking",
+                    "route": "chap7_7"
+                },
+                {
+                    "text": "Or don't",
+                    "route": "chap7_9"
+                }
+            ]
+        },
+        "chap7_7": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "\". . . he'd do almost anything you liked with the clock. For instance, suppose it were nine o'clock in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past one, time for dinner!\"</p><p>(\"I only wish it was,\" the March Hare said to itself in a whisper.)</p><p>\"That would be grand, certainly,\" said Alice thoughtfully: \"but then—I shouldn't be hungry for it, you know.\"</p><p>\"Not at first, perhaps,\" said the Hatter: \"but you could keep it to half-past one as long as you liked.\"</p><p>\"Is that the way you manage?\" Alice asked.</p><p>The Hatter shook his head mournfully. \"Not I!\" he replied. \"We quarrelled last March—just before he went mad, you know—\" (pointing with his tea spoon at the March Hare,) \"—it was at the great concert given by the Queen of Hearts, and I had to sing:</p><p>'Twinkle, twinkle, little bat!</p><p>How I wonder what you're at!'</p><p>You know the song, perhaps?\"</p><p>\"I've heard something like it,\" said Alice.</p><p>\"It goes on, you know,\" the Hatter continued, \"in this way:</p><p>'Up above the world you fly,</p><p> Like a tea-tray in the sky.</p><p> Twinkle, twinkle—'\"</p>",
+            "choices": [
+                {
+                    "text": "Keep Singing",
+                    "route": "chap7_7b"
+                },
+                {
+                    "text": "Let's move on",
+                    "route": "chap7_8"
+                }
+            ]
+        },
+        "chap7_7b": {
+            "randomize": true,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>'Twinkle, twinkle, little <span id='random-0'></span>!</p><p>How I wonder <span id='random-1'></span>!'</p><p>'Up above the world <span id='random-2'></span>,</p><p> Like a tea-tray <span id='random-3'></span>.</p><p> Twinkle, twinkle—'\"</p>",
+            "choices": [
+                {
+                    "text": "Keep Singing",
+                    "route": "chap7_7b"
+                },
+                {
+                    "text": "For the love of everything, stop!!",
+                    "route": "chap7_8"
+                }
+            ]
+        },
+        "chap7_8": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>Here the Dormouse shook itself, and began singing in its sleep \"Twinkle, twinkle, twinkle, twinkle—\" and went on so long that they had to pinch it to make it stop.</p><p>\"Well, I'd hardly finished the first verse,\" said the Hatter, \"when the Queen jumped up and bawled out, 'He's murdering the time! Off with his head!'\"</p><p>\"How dreadfully savage!\" exclaimed Alice.</p><p>\"And ever since that,\" the Hatter went on in a mournful tone, \"he won't do a thing I ask! It's always six o'clock now.\"</p><p>A bright idea came into Alice's head. \"Is that the reason so many tea-things are put out here?\" she asked.</p><p>\"Yes, that's it,\" said the Hatter with a sigh: \"it's always tea-time, and we've no time to wash the things between whiles.\"</p><p>\"Then you keep moving round, I suppose?\" said Alice.</p><p>\"Exactly so,\" said the Hatter: \"as the things get used up.\"</p><p>\"But what happens when you come to the beginning again?\" Alice ventured to ask.</p><p>\"Suppose we change the subject,\" the March Hare interrupted, yawning. \"I'm getting tired of this. I vote the young lady tells us a story.\"</p><p>\"I'm afraid I don't know one,\" said Alice, rather alarmed at the proposal.</p><p>\"Then the Dormouse shall!\" they both cried. \"Wake up, Dormouse!\" And they pinched it on both sides at once.</p><p>The Dormouse slowly opened his eyes. \"I wasn't asleep,\" he said in a hoarse, feeble voice: \"I heard every word you fellows were saying.\"</p><p>\"Tell us a story!\" said the March Hare.</p><p>\"Yes, please do!\" pleaded Alice.</p><p>\"And be quick about it,\" added the Hatter, \"or you'll be asleep again before it's done.\"</p>",
+            "choices": [
+                {
+                    "text": "This can only end well. . .",
+                    "route": "chap7_9"
+                }
+            ]
+        },
+        "chap7_9": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"Once upon a time there were three little sisters,\" the Dormouse began in a great hurry;</p><p>\"And their names were Elsie, Lacie, and Tillie;</p><p>and they lived at the bottom of a well\"</p>",
+            "choices": [
+                {
+                    "text": "An actual well?!",
+                    "route": "chap7_9a"
+                },
+                {
+                    "text": "And then what happened??",
+                    "route": "chap7_10"
+                }
+            ]
+        },
+        "chap7_9a": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>\"What did they live on?\" said Alice, who always took a great interest in questions of eating and drinking.</p><p>\"They lived on treacle,\" said the Dormouse, after thinking a minute or two.</p>",
+            "choices": [
+                {
+                    "text": "I'm sorry, did you say treacle?",
+                    "route": "chap7_9b"
+                }, {
+                    "text": "Oh, ok! And then what happened??",
+                    "route": "chap7_10a"
+                }
+            ]
+        },
+        "chap7_9b": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>\"They couldn't have done that, you know,\" Alice gently remarked; \"they'd have been ill.\"</p><p>\"So they were,\" said the Dormouse; \"very ill.\"</p>",
+            "choices": [
+                {
+                    "text": "That doesn't make any sense!",
+                    "route": "chap7_9c"
+                }, {
+                    "text": "Oooh, ill young sisters in a well - how dramatic!",
+                    "route": "chap7_10a" 
+                }
+            ]
+        }, 
+        "chap7_9c": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>Alice tried to fancy to herself what such an extraordinary ways of living would be like, but it puzzled her too much, so she went on: \"But why did they live at the bottom of a well?\"</p><p>\"Take some more tea,\" the March Hare said to Alice, very earnestly.</p><p>\"I've had nothing yet,\" Alice replied in an offended tone, \"so I can't take more.\"</p><p>\"You mean you can't take <i>less</i>,\" said the Hatter: \"it's very easy to take more than nothing.\"</p><p>\"Nobody asked <i>your</i> opinion,\" said Alice.</p><p>\"Who's making personal remarks now?\" the Hatter asked triumphantly.</p><p>Alice did not quite know what to say to this: so she helped herself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated herself.</p><p>bread-and-butter, and then turned to the Dormouse, and repeated herself.</p><p>The Dormouse again took a minute or two to think about it, and then said, \"It was a treacle-well.\"</p>",
+            "choices": [
+                {
+                    "text": "A treacle well?!",
+                    "route": "chap7_9d"
+                }, {
+                    "text": "A treacle well - how original!",
+                    "route": "chap7_10b"
+                }
+            ]
+        },
+        "chap7_9d": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"There's no such thing!\" Alice was beginning very angrily,</p><p>but the Hatter and the March Hare went \"Sh! sh!\" and the Dormouse sulkily remarked, \"If you can't be civil, you'd better finish the story for yourself.\"</p>",
+            "choices": [
+                {
+                    "text": "Okay!",
+                    "route": "chap7_10c"
+                },
+                {
+                    "text": "No no no!",
+                    "route": "chap7_9e"
+                }
+            ]
+        },
+        "chap7_9e": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"No, please go on!\" Alice said very humbly; \"I won't interrupt again. I dare say there may be one.\"</p><p>\"One, indeed!\" said the Dormouse indignantly. However, he consented to go on. \"And so these three little sisters—they were learning to draw, you know—\"</p><p>\"What did they draw?\" said Alice, quite forgetting her promise.</p><p>\"Treacle,\" said the Dormouse, without considering at all this time.</p>",
+            "choices": {
+                "text": "Makes sense.",
+                "route": "chap7_10b"
             }
+        },
+        "chap7_10": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "\"Indeed,\" snoozed the Dormouse, \"and they swam when they liked, and they drank when they liked, and they nibbled upon the stones when they wished. And yet one day they decided to learn to draw. . .\"",
+            "choices": [
+                {
+                    "text": "Go on. . .?",
+                    "route": "chap7_11"
+                }
+            ]
+        },
+        "chap7_10a": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "\"Indeed,\" snoozed the Dormouse, \"and they lay in the treacle, sleeping off their illness, eating their fill, or watching the clouds and stars above them. And they wrote the clouds and the stars and the sleep and the illness upon the walls. One day finding the writing insufficient, they decided to learn how to draw-\"",
+            "choices": [
+                {
+                    "text": "This. . . sounds pretty bleak",
+                    "route": "chap7_11"
+                }
+            ]
+        },
+        "chap7_10b": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>\"I want a clean cup,\" interrupted the Hatter: \"let's all move one place on.\"</p><p>He moved on as he spoke, and the Dormouse followed him: the March Hare moved into the Dormouse's place, and Alice rather unwillingly took the place of the March Hare.</p><p>The Hatter was the only one who got any advantage from the change: and Alice was a good deal worse off than before, as the March Hare had just upset the milk-jug into his plate.</p><p>Alice did not wish to offend the Dormouse again, so she began very cautiously: \"But I don't understand. Where did they draw the treacle from?\"</p><p>\"You can draw water out of a water-well,\" said the Hatter; \"so I should think you could draw treacle out of a treacle-well—eh, stupid?\"</p><p>\"But they were in the well,\" Alice said to the Dormouse, not choosing to notice this last remark.</p><p>\"Of course they were,\" said the Dormouse; \"—well in.\"</p><p>This answer so confused poor Alice, that she let the Dormouse go on for some time without interrupting it.</p><p>\"They were learning to draw,\" the Dormouse went on, yawning and rubbing its eyes, for it was getting very sleepy; \"and they drew all manner of things—everything that begins with an M—\"</p><p>\"Why with an M?\" said Alice.</p><p>\"Why not?\" said the March Hare.</p><p>Alice was silent.</p>",
+            "choices": [
+                {
+                    "text": "Minnows and maps and marshmallow mash",
+                    "route": "chap7_11"
+                }
+            ]
+        },
+        "chap7_10c": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>Alice smiled. Now was the time to tell a real story without all this nonsense. And yet all that came out was:</p><div class=\"poem\"><p>\"A well runs out of thirst</p><p>the way time runs out of a week,</p><p>the way a country runs out of its alphabet</p><p>or a tree runs out of its height.</p><p>The way a brown pelican</p>runs out of anchovy-glitter at darkfall.</p><br /><p>A strange collusion,</p><p>the way a year runs out of its days</p><p>but turns into another,</p><p>the way a cotton towel's compact</p>with pot and plate seems to run out of dryness</p><p>but in a few minutes finds more.</p><br /><p>A person comes into the kitchen</p><p>to dry the hands, the face,</p><p>to stand on the lip of a question.</p><br /><p>Around the face, the hands,</p><p>behind the shoulders,</p><p>yeasts, mountains, mosses multiply answers. . .</p><a href='https://poets.org/poem/well-runs-out-thirst'><i>A Well Runs Out of Thirst</i>, Jane Hirshfield, 2012</a>\"</div>",
+            "choices": [
+                {
+                    "text": "Wait, she actually said the citation?",
+                    "route": "chap7_11"
+                }
+            ]
+        },
+        "chap7_11": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "<p>The Dormouse had closed its eyes by this time, and was going off into a doze; but, on being pinched by the Hatter, it woke up again with a little shriek, and went on: \"—that begins with an M, such as mouse-traps, and the moon, and memory, and muchness—you know you say things are \"much of a muchness\"—did you ever see such a thing as a drawing of a muchness?\"</p><p>\"Really, now you ask me,\" said Alice, very much confused, \"I don't think—\"</p><p>\"Then you shouldn't talk,\" said the Hatter.</p><p>This piece of rudeness was more than Alice could bear:</p>",
+            "choices": [
+                {
+                    "text": "Press F to flip the table. . . ",
+                    "route": "chap7_12a"
+                },
+                {
+                    "text": ". . . Or walk away",
+                    "route": "chap7_12b"
+                }
+            ]
+        },
+        "chap7_12a": {
+            "randomize": false,
+            "chapter":"Chapter VII. A Mad Tea Party",
+            "text": "She got up in great disgust, and, with a wicked thought, reached for the mushroom in her pocket. She nibbled and nibbled until she, was a full two feet tall, towering over the other partygoers.</p><p>In response, the Dormouse let out a loud snore, and the Mad Hatter and the March Hare were comparing forks.</p><p>Enraged by their apathy, Alice reached under the table with (comparatively) giant hands and threw it forward. The Dormouse's teapot flew into the air, a great many plates slid off and crashed. The March Hare caught the teapot and placed it on his head. The Mad Hatter, still holding his fork, somehow managed to catch and scoop up the table, and continuted with his argument. At a loss, Alice shrank back down, turned around, and left.",
+            "choices": [
+                {
+                    "text": "Alright, let's wrap this up",
+                    "route": "chap7_13"
+                }
+            ]
+        },
+        "chap7_12b": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>She got up in great disgust, and walked off; the Dormouse fell asleep instantly, and neither of the others took the least notice of her going, though she looked back once or twice, half hoping that they would call after her: the last time she saw them, they were trying to put the Dormouse into the teapot.</p>",
+            "choices": [
+                {
+                    "text": "Alright, let's wrap this up",
+                    "route": "chap7_13"
+                }
+            ]
+        },
+        "chap7_13": {
+            "randomize": false,
+            "chapter": "Chapter VII. A Mad Tea Party",
+            "text": "<p>\"At any rate I'll never go there again!\" said Alice as she picked her way through the wood. \"It's the stupidest tea-party I ever was at in all my life!\"</p><p>Just as she said this, she noticed that one of the trees had a door leading right into it. \"That's very curious!\" she thought. \"But everything's curious today. I think I may as well go in at once.\" And in she went.</p>",
+            "choices": [
+                {
+                    "text": "A Trial Awaits. . .",
+                    "route": "chap11_1"
+                }
+            ]
+        },
+        "begin": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p>The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them — all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them — \"I wish they'd get the trial done,\" she thought, \"and hand round the refreshments!\" But there seemed to be no chance of this, so she began looking at everything about her, to pass away the time.</p><p>Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there. \"That's the judge,\" she said to herself, \"because of his great wig.\"</p><p>The judge, by the way, was the King; and as he wore his crown over the wig, (look at the frontispiece if you want to see how he did it,) he did not look at all comfortable, and it was certainly not becoming. \"And that's the jury-box,\" thought Alice, \"and those twelve creatures,\" (she was obliged to say \"creatures,\" you see, because some of them were animals, and some were birds,) \"I suppose they are the jurors.\" She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, \"jury-men\" would have done just as well.</p><p>The twelve jurors were all writing very busily on slates. \"What are they doing?\" Alice whispered to the Gryphon. \"They can't have anything to put down yet, before the trial's begun.\"</p><p>\"They're putting down their names,\" the Gryphon whispered in reply, \"for fear they should forget them before the end of the trial.\"</p><p>\"Stupid things!\" Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, \"Silence in the court!\" and the King put on his spectacles and looked anxiously round, to make out who was talking.</p><p>Alice could see, as well as if she were looking over their shoulders, that all the jurors were writing down \"stupid things!\" on their slates, and she could even make out that one of them didn't know how to spell \"stupid,\" and that he had to ask his neighbour to tell him.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "They looked like this:",
+                    "route": "chap11_1a"
+                }
+            ]
+        },
+        "chap11_1a": {
+            "randomize": true,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<ul><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li>Stupid Things</li><li id='random'></li></ul><br /><p>\"A nice muddle their slates'll be in before the trial's over!\" thought Alice. One of the jurors had a pencil that squeaked. This of course, Alice could not stand, she went round the court and got behind him, and very soon found an opportunity of taking it away. She did it so quickly that the poor little juror:</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "It was Bill, the lizard",
+                    "route": "chap11_2a"
+                },
+                {
+                    "text": "It was Pete, the Parrot",
+                    "route": "chap11_2b"
+                },
+                {
+                    "text": "It was Penny, the Panda",
+                    "route": "chap11_2c"
+                }
+            ]
+        },
+        "chap11_2a": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p><iframe width='336' height='597' src='https://www.youtube.com/embed/lnrhvvILovs' title='Cute Leopard Gecko Greets Me!' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></p><p>.......could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Poor Bill",
+                    "route": "chap11_3"
+                }
+            ]
+        },
+        "chap11_2b": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p><iframe width='336' height='597' src='https://www.youtube.com/embed/2gffLQ1HwWk' title='Little parrot singing and dancing #parrot #bird #pet #cockatiel #cute' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></p><p>.......could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Poor Pete",
+                    "route": "chap11_3"
+                }
+            ]
+        },
+        "chap11_2c": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p><iframe width='336' height='597' src='https://www.youtube.com/embed/sqq9dk6eIoo' title='PANDA MUKBANG1: A super cute panda eating show is here for you! 熊猫吃播看过吗，超级可爱！' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></p><p>.......could not make out at all what had become of it; so, after hunting all about for it, she was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Poor Penny",
+                    "route": "chap11_3"
+                }
+            ]
+        },
+        "chap11_3": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p>\"Herald, read the accusation!\" said the King.On this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "The White Rabbit reads out the indictment",
+                    "route": "chap11_3a"
+                },
+                {
+                    "text": "The White Rabbit reads out the Dada Manifestos",
+                    "route": "chap11_3b"
+                },
+                {
+                    "text": "The White Rabbit reads out the fruit tart recipe",
+                    "route": "chap11_3c"
+                }
+            ]
+        },
+        "chap11_3a": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p>\"The Queen of Hearts, she made some tarts,</p><p>All on a summer day:</p><p>The Knave of Hearts, he stole those tarts,</p><p>And took them quite away!\"</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Moving right along",
+                    "route": "chap11_4"
+                }
+            ]
+        },
+        "chap11_3b": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p><iframe width='560' height='315' src='https://www.youtube.com/embed/_3sNiiOlvjU?si=cstN7HoaLx80jVYO' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Moving right along",
+                    "route": "chap11_4"
+                }
+            ]
+        },
+        "chap11_3c": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p><iframe width='560' height='315' src='https://www.youtube.com/embed/tsAFoUyTsrk?si=izorTGC7c_L_-7o9' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe></p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Moving right along",
+                    "route": "chap11_4"
+                }
+            ]
+        },
+        "chap11_4": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p>\"Consider your verdict,\" the King said to the jury.</p><p> \"Not yet, not yet!\" the Rabbit hastily interrupted. \"There's a great deal to come before that!\"</p><p>\"Call the first witness,\" said the King; and the White Rabbit blew three blasts on the trumpet, and called out, \"First witness!\"</p><p>The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other. \"I beg pardon, your Majesty,\" he began, \"for bringing these in: but I hadn't quite finished my tea when I was sent for.\"</p><p>\"You ought to have finished,\" said the King. \"When did you begin?\"</p><p>The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "\"Fourteenth of March, I think it was,\" he said.",
+                    "route": "chap11_4a"
+                },
+                {
+                    "text": "\"Fifteenth,\" said the March Hare.",
+                    "route": "chap11_4b"
+                },
+                {
+                    "text": "\"Sixteenth,\" added the Dormouse.",
+                    "route": "chap11_4c"
+                }
+            ]
+        },
+        "chap11_4a": {
+            "randomize": false,
+            "chapter":"Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/hat1.png' /></p><p>The Hatter took a deep breath and began:</p><p>\"\"Einstein\"redirects here. For other uses, see Einstein (disambiguation) and Albert Einstein (disambiguation).</p><p>Albert Einstein  (14 March 1879 - 18 April 1955) was a German-born theoretical physicist who is widely held as one of the most influential scientists. Best known for developing the theory of relativity, Einstein also made important contributions to quantum mechanics. His mass-energy equivalence formula E = mc2, which arises from special relativity, has been called \"the world's most famous equation\". He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\", a pivotal step in the development of quantum theory.</p><p>Born in the German Empire, Einstein moved to Switzerland in 1895, forsaking his German citizenship (as a subject of the Kingdom of Württemberg) the following year. In 1897, at the age of seventeen, he enrolled in the mathematics and physics teaching diploma program at the Swiss federal polytechnic school in Zürich, graduating in 1900. In 1901, he acquired Swiss citizenship, which he kept for the rest of his life. In 1903, he secured a permanent position at the Swiss Patent Office in Bern. In 1905, he submitted a successful PhD dissertation to the University of Zurich. In 1914, he moved to Berlin in order to join the Prussian Academy of Sciences and the Humboldt University of Berlin. In 1917, he became director of the Kaiser Wilhelm Institute for Physics; he also became a German citizen again, this time as a subject of the Kingdom of Prussia. In 1933, while Einstein was visiting the United States, Adolf Hitler came to power in Germany. Horrified by the Nazi war of extermination against his fellow Jews, Einstein decided to remain in the US, and was granted American citizenship in 1940. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program and recommended that the US begin similar research. Einstein supported the Allies but generally viewed the idea of nuclear weapons with great dismay. </p><p>Einstein's work is also known for its influence on the philosophy of science. In 1905, he published four groundbreaking papers, sometimes described as his annus mirabilis (miracle year). These papers outlined a theory of the photoelectric effect, explained Brownian motion, introduced his special theory of relativity—a theory which addressed the inability of classical mechanics to account satisfactorily for the behavior of the electromagnetic field—and demonstrated that if the special theory is correct, mass and energy are equivalent to each other. In 1915, he proposed a general theory of relativity that extended his system of mechanics to incorporate gravitation. A cosmological paper that he published the following year laid out the implications of general relativity for the modeling of the structure and evolution of the universe as a whole. </p><p>In the middle part of his career, Einstein made important contributions to statistical mechanics and quantum theory. Especially notable was his work on the quantum physics of radiation, in which light consists of particles, subsequently called photons. With the Indian physicist Satyendra Nath Bose, he laid the groundwork for Bose-Einstein statistics. For much of the last phase of his academic life, Einstein worked on two endeavors that proved ultimately unsuccessful. First, he advocated against quantum theory's introduction of fundamental randomness into science's picture of the world, objecting that \"God does not play dice\". Second, he attempted to devise a unified field theory by generalizing his geometric theory of gravitation to include electromagnetism too. As a result, he became increasingly isolated from the mainstream modern physics. His intellectual achievements and originality made Einstein broadly synonymous with genius. In 1999, he was named Time's Person of the Century. In a 1999 poll of 130 leading physicists worldwide by the British journal Physics World, Einstein was ranked the greatest physicist of all time.</p><br /><p>\"Marx\" redirects here. For other uses, see Marx (disambiguation) and Karl Marx (disambiguation).</p><p>Karl Marx (5 May 1818 - 14 March 1883) was a German-born philosopher, political theorist, economist, historian, sociologist, journalist, and revolutionary socialist. His best-known works are the 1848 pamphlet The Communist Manifesto (with Friedrich Engels) and his three-volume Das Kapital (1867 - 1894); the latter employs his critical approach of historical materialism in an analysis of capitalism, in the culmination of his intellectual endeavours. Marx's ideas and their subsequent development, collectively known as Marxism, have had enormous influence on modern intellectual, economic and political history.</p><p>Born in Trier in the Kingdom of Prussia, Marx studied at the universities of Bonn, Berlin, and Jena, and received a doctorate in philosophy from the latter in 1841. A Young Hegelian, he was influenced by the philosophy of Georg Wilhelm Friedrich Hegel, and both critiqued and developed Hegel's ideas in works such as The German Ideology (written 1846) and the Grundrisse (written 1857-1858). While in Paris in 1844, Marx wrote his Economic and Philosophic Manuscripts and met Engels, who became his closest friend and collaborator. After moving to Brussels in 1845, they were active in the Communist League, and in 1848 wrote The Communist Manifesto, which expresses Marx's ideas and lays out a programme for revolution. Marx was expelled from Belgium and Germany, and in 1849 moved to London, where he wrote The Eighteenth Brumaire of Louis Bonaparte (1852) and Das Kapital. From 1864, Marx was involved in the International Workingmen's Association (First International), in which he fought the influence of anarchists led by Mikhail Bakunin. In his Critique of the Gotha Programme (1875), Marx wrote on revolution, the state and the transition to communism. He died stateless in 1883 and was buried in Highgate Cemetery.</p><p>Marx's critiques of history, society and political economy hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour power in return for wages. Employing his historical materialist approach, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that these tensions would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism—owing in part to its instability and crisis-prone nature—would eventuate the working class's development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers. Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.</p><p>Marx has been described as one of the most influential figures of the modern era, and his work has been both lauded and criticised. Marxism has exerted major influence on socialist thought and political movements, and during the 20th century revolutionary governments identifying as Marxist took power in many countries and established socialist states including the Soviet Union and the People's Republic of China. Theoretical variants such as Leninism, Marxism-Leninism, Trotskyism, and Maoism have been developed. Marx's work in economics has had a strong influence on modern heterodox theories of labour and capital, and he is often cited as one of the principal architects of modern social science.</p><br /><p>From Wikipedia, the free encyclopedia\"</p><p>\"Write that down,\" the King said to the jury.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Next?",
+                    "route": "chap11_5"
+                }
+            ]
+        },
+        "chap11_4b": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/hat2.png' /></p><p>The March Hare continued:</p><p>\"\"Death of Caesar\" and \"Murder of Caesar\" redirect here. For other uses, see Assassination of Julius Caesar (disambiguation) and Death of Caesar (disambiguation).</p><p>Julius Caesar was assassinated by a group of senators on the Ides of March (15 March) of 44 BC during a meeting of the Senate at the Curia of Pompey of the Theatre of Pompey in Rome where the senators stabbed Caesar 23 times. They claimed to be acting over fears that Caesar's unprecedented concentration of power during his dictatorship was undermining the Roman Republic. At least 60 to 70 senators were party to the conspiracy, led by Marcus Junius Brutus, Gaius Cassius Longinus, and Decimus Junius Brutus Albinus. Despite the death of Caesar, the conspirators were unable to restore the institutions of the Republic. The ramifications of the assassination led to his martyrdom, the Liberators' civil war and ultimately to the Principate period of the Roman Empire.</p><br /><p>On 15 March 1962 former US President John F. Kennedy with Consumer Bill of Rights said:</p><p>\" Consumers by definition include us all. They are the largest economic group, affecting and affected by almost every public and private economic decision. Yet they are the only important group… whose views are often not heard.\"[relevant?]</p><p>Consumer rights activist Anwar Fazal working for Consumers International at the time, later proposed the observance of a 'World Consumer Rights Day' marking that date, and on 15 March 1983 consumer organizations started observing that date as an occasion to promote basic rights of consumers.</p><p>World Consumer Rights Day is an annual occasion for celebration and solidarity within the international consumer movement. Participants observe the day by promoting the basic rights of all consumers, demanding that those rights are respected and protected, and protesting about the market abuses and social injustices which undermine them. World Consumer Rights Day is celebrated on 15 March every year.</p><p>From Wikipedia, the free encyclopedia\"</p><p>\"Write that down,\" the King said to the jury.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Next?",
+                    "route": "chap11_5"
+                }
+            ]
+        },
+        "chap11_4c": {
+            "randomize": false,
+            "chapter":"Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/hat3.png' /></p><p>The Dormouse miraculously stayed awake to relay the following:</p><p>\"\"My Lai\" redirects here. For the documentary, see My Lai (film).</p><p>The My Lai massacre was a war crime committed by the United States Army on 16 March 1968, involving the mass murder of unarmed civilians in Sơn Mỹ village, Quảng Ngãi province, South Vietnam, during the Vietnam War. At least 347 and up to 504 civilians, almost all women, children, and elderly men, were murdered by U.S. soldiers from C Company, 1st Battalion, 20th Infantry Regiment, 11th Brigade and B Company, 4th Battalion, 3rd Infantry Regiment, 11th Brigade of the 23rd (Americal) Division (organized as part of Task Force Barker). Some of the women were gang-raped and their bodies mutilated, and some soldiers mutilated and raped children as young as 12. The incident is the largest massacre of civilians by U.S. forces in the 20th century.</p><p>On the morning of the massacre, C Company, commanded by Captain Ernest Medina, was sent into one of the village's hamlets (marked on maps as My Lai 4) expecting to engage the Viet Cong's Local Force 48th Battalion, which was not present. The killing began while the troops were searching the village for guerillas, and continued after they realized that no guerillas seemed to be present. Villagers were gathered together, held in the open, then murdered with automatic weapons, bayonets, and hand grenades; one large group of villagers was shot in an irrigation ditch. Soldiers also burned down homes and killed livestock. Warrant Officer Hugh Thompson Jr. and his helicopter crew are credited with attempting to stop the massacre. On the same day, B Company massacred an additional 60 to 155 people in the nearby hamlet of My Khe 4.</p><p>The massacre was originally reported as a battle against Viet Cong troops, and was covered up in initial investigations by the U.S. Army. The efforts of veteran Ronald Ridenhour and journalist Seymour Hersh broke the news of the massacre to the American public in November 1969, prompting global outrage and contributing to domestic opposition to U.S. involvement in the Vietnam War. Twenty-six soldiers were charged with criminal offenses, but only Lieutenant William Calley Jr., the leader of 1st Platoon in C Company, was convicted. He was found guilty of murdering 22 villagers and originally given a life sentence, but served three-and-a-half years under house arrest after U.S. president Richard Nixon commuted his sentence.</p><br /><p>The Halabja massacre (Kurdish: کیمیابارانی ھەڵەبجە Kêmyabarana Helebce) took place in Iraqi Kurdistan on 16 March 1988, when thousands of Kurds were killed by a large-scale Iraqi chemical attack. A targeted attack in Halabja, it was carried out during the Anfal campaign, which was led by Iraqi military officer Ali Hassan al-Majid. Two days before the attack, the city had been captured by Iran as part of Operation Zafar 7 of the Iran-Iraq War. Following the incident, the United Nations launched an investigation and concluded that mustard gas and other unidentified nerve agents had been used against Kurdish civilians. The United States Defense Intelligence Agency initially blamed Iran for the attack, though the majority of evidence later revealed that Iraq had used the chemical weapons to bolster an ongoing military offensive against Iran, pro-Iranian Kurdish fighters, and ordinary Halabja residents.</p><p>To date, the Halabja massacre remains the largest chemical weapons attack directed against a civilian-populated region in human history, killing between 3,200 and 5,000 people and injuring 7,000 to 10,000 more.Preliminary results from surveys of the affected areas showed increased rates of cancer and birth defects in the years since the attack took place.</p><p>In 2010, the Supreme Iraqi Criminal Tribunal officially defined the Halabja chemical attack as a genocidal massacre against the Kurdish people during the time of Iraqi president Saddam Hussein. That same year, it was also formally condemned by the Parliament of Canada, which classified it as a crime against humanity. Al-Majid, who was captured during the 2003 invasion of Iraq, was put on trial and found guilty of ordering the attack; he was sentenced to death in June 2007 and executed by hanging in January 2010.</p><p>\"Write that down,\" the King said to the jury.</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Next?",
+                    "route": "chap11_5"
+                }
+            ]
+        },
+        "chap11_5": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/hat1.png' /></p><p>The jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.\"Take off your hat,\" the King said to the Hatter.</p><p>\"It isn't mine,\" said the Hatter.</p><p>\"Stolen!\" the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.</p><p>\"I keep them to sell,\" the Hatter added as an explanation; \"I've none of my own. I'm a hatter.\"Here the Queen put on her spectacles, and began staring at the Hatter, who turned pale and fidgeted. \"Give your evidence,\" said the King; \"and don't be nervous, or I'll have you executed on the spot.\" This did not seem to encourage the witness at all: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he bit a large piece out of his teacup instead of the bread-and-butter.</p><p>Just at this moment Alice felt a very curious sensation, which puzzled her a good deal until she made out what it was: she was beginning to grow larger again, and she thought at first she would get up and leave the court; but on second thoughts she decided to remain where she was as long as there was room for her.</p><p>\"I wish you wouldn't squeeze so.\" said the Dormouse, who was sitting next to her. \"I can hardly breathe.\"</p><p>\"I can't help it,\" said Alice very meekly: \"I'm growing.\"</p><p>\"You've no right to grow here,\" said the Dormouse.</p><p>\"Don't talk nonsense,\" said Alice more boldly: \"you know you're growing too.\"</p><p>\"Yes, but I grow at a reasonable pace,\" said the Dormouse: \"not in that ridiculous fashion.\"</p><p>nd he got up very sulkily and crossed over to the other side of the court. All this time the Queen had never left off staring at the Hatter, and, just as the Dormouse crossed the court, she said to one of the officers of the court, \"Bring me the list of the singers in the last concert!\"on which the wretched Hatter trembled so, that he shook both his shoes off. \"Give your evidence,\" the King repeated angrily, \"or I'll have you executed, whether you're nervous or not.\"</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "The Hatter's Evidence",
+                    "route": "chap11_6"
+                }
+            ]
+        },
+        "chap11_6": {
+            "randomize": false,
+            "chapter": "Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/hat1.png' /></p><p>\"I'm a poor man, your Majesty,\" the Hatter began, in a trembling voice, \"—and I hadn't begun my tea—not above a week or so—and what with the bread-and-butter getting so thin—and the twinkling of the tea—\"</p><p>\"The twinkling of the what?\" said the King.</p><p>\"It began with the tea,\" the Hatter replied.</p><p>\"Of course twinkling begins with a T!\" said the King sharply. \"Do you take me for a dunce? Go on!\"</p><p>\"I'm a poor man,\" the Hatter went on, \"and most things twinkled after that—only the March Hare said—\"</p><p>\"I didn't!\" the March Hare interrupted in a great hurry.</p><p>\"You did!\" said the Hatter.</p><p>\"I deny it!\" said the March Hare.</p><p>\"He denies it,\" said the King: \"leave out that part.\"</p><p>\"Well, at any rate, the Dormouse said—\" the Hatter went on, looking anxiously round to see if he would deny it too: but the Dormouse denied nothing, being fast asleep. \"After that,\" continued the Hatter, \"I cut some more bread-and-butter—\"</p><p>\"But what did the Dormouse say?\" one of the jury asked.</p><p>\"That I can't remember,\" said the Hatter.</p><p>\"You must remember,\" remarked the King, \"or I'll have you executed.\"</p><p>The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee. \"I'm a poor man, your Majesty,\" he began.</p><p>\"You're a very poor speaker,\" said the King.</p><p>Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of the court. (As that is rather a hard word, I will just explain to you how it was done. They had a large canvas bag, which tied up at the mouth with strings: into this they slipped the guinea-pig, head first, and then sat upon it.)</p><p>\"I'm glad I've seen that done,\" thought Alice. \"I've so often read in the newspapers, at the end of trials, \"There was some attempts at applause, which was immediately suppressed by the officers of the court,\" and I never understood what it meant till now.\"</p><p>\"If that's all you know about it, you may stand down,\" continued the King.</p><p>\"I can't go no lower,\" said the Hatter: \"I'm on the floor, as it is.\"</p><p>\"Then you may sit down,\" the King replied.</p><p>Here the other guinea-pig cheered, and was suppressed.</p><p>\"Come, that finished the guinea-pigs!\" thought Alice. \"Now we shall get on better.\"</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Yes, because the guinea pigs were the problem",
+                    "route": "chap11_7"
+                }
+            ]
+        },
+        "chap11_7": {
+            "randomize": false,
+            "chapter":"Chapter XI. Who Stole the Tarts?",
+            "text": "<p><img src='/images/MarchHare.png' /></p><p>\"I'd rather finish my tea,\" said the Hatter, with an anxious look at the Queen, who was reading the list of singers:</p><ul><li>Matthew</li><li>Melissa</li><li>Tasha</li><li>Wandi</li><li>Wiktor</li></ul><p>\"You may go,\" said the King, and the Hatter hurriedly left the court, without even waiting to put his shoes on.</p><p>\"—and just take his head off outside,\" the Queen added to one of the officers: but the Hatter was out of sight before the officer could get to the door.</p><p>\"Call the next witness!\" said the King.</p><p>The next witness was the Duchess's cook. She carried the pepper-box in her hand, and Alice guessed who it was, even before she got into the court, by the way the people near the door began sneezing all at once.</p><p>\"Give your evidence,\" said the King.</p><p>\"Shan't,\" said the cook.</p><p>The King looked anxiously at the White Rabbit, who said in a low voice, \"Your Majesty must cross-examine this witness.\"</p><p>\"Well, if I must, I must,\" the King said, with a melancholy air, and, after folding his arms and frowning at the cook till his eyes were nearly out of sight, he said in a deep voice, \"What are tarts made of?\"</p><p>\"Pepper, mostly,\" said the cook.</p><p>\"Treacle,\" said a sleepy voice behind her.</p><p>\"Collar that Dormouse,\" the Queen shrieked out. \"Behead that Dormouse! Turn that Dormouse out of court! Suppress him! Pinch him! Off with his whiskers!\"</p><p>For some minutes the whole court was in confusion, getting the Dormouse turned out, and, by the time they had settled down again, the cook had disappeared.</p><p>\"Never mind!\" said the King, with an air of great relief. \"Call the next witness.\" And he added in an undertone to the Queen, \"Really, my dear, you must cross-examine the next witness. It quite makes my forehead ache!\"</p><p>Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see what the next witness would be like, \"—for they haven't got much evidence yet,\" she said to herself. Imagine her surprise, when the White Rabbit read out, at the top of his shrill little voice, the name \"Alice!\"</p><p class='center'><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /><img src='/images/trumpt.png' /></p>",
+            "choices": [
+                {
+                    "text": "Sadly, here we end our tale",
+                    "route": "end"
+                }
+            ]
+        },
+        "end": {
+            "randomize": false,
+            "chapter": "End",
+            "text": "<p>\"Wake up, Alice dear!\" said her sister; \"Why, what a long sleep you've had!\"</p><p>\"Oh, I've had such a curious dream!\" said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about; and when she had finished, her sister kissed her, and said, \"It was a curious dream, dear, certainly: but now run in to your tea; it's getting late.\" So Alice got up and ran off, thinking while she ran, as well she might, what a wonderful dream it had been. </p>"
         }
     }
 }
