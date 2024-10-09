@@ -669,7 +669,18 @@
             "text": "<p>\"At any rate I'll never go there again!\" said Alice as she picked her way through the wood. \"It's the stupidest tea-party I ever was at in all my life!\"</p><p>Just as she said this, she noticed that one of the trees had a door leading right into it. \"That's very curious!\" she thought. \"But everything's curious today. I think I may as well go in at once.\" And in she went.</p>",
             "choices": [
                 {
-                    "text": "A Trial Awaits. . .",
+                    "text": "Anyone up for a game of croquet?",
+                    "route": "chap8"
+                }
+            ]
+        },
+        "chap8": {
+            "randomize": false,
+            "chapter": "Chapter VIII: The Queen's Croquet-Ground",
+            "text": "<p>Click below to grab your flamingo mallet and hedgehog ball and begin a round of croquet</p><p><iframe width=\"552\" height=\"167\" frameborder=\"0\" src=\"https://itch.io/embed/3028807\"><a href=\"https://wiktork01.itch.io/alice-flamingo-croquet\">Alice Flamingo Croquet by WiktorK01</a></iframe></p>",
+            "choices": [
+                {
+                    "text": "Rage quit directly to the Trial",
                     "route": "chap11_1"
                 }
             ]
